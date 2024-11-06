@@ -1,0 +1,3504 @@
+5. Agree
+Cycle 1 extracted numbers:5
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+1
+Cycle 1 extracted numbers:5, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+1
+5. Agree
+Cycle 1 extracted numbers:5, 1, 5
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+2. Slightly disagree
+Cycle 1 extracted numbers:5, 1, 5, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2. Slightly disagree
+1
+Cycle 1 extracted numbers:5, 1, 5, 2, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+2. Slightly disagree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+5
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+5
+4. Slightly agree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1
+2. Slightly disagree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+2
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2
+4. Slightly agree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+3
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+3
+4. Slightly agree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+4. Slightly agree
+1
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+3
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+3
+2. Slightly disagree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2, 2, 2
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2, 2, 2, 5
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+4. Slightly agree
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2, 2, 2, 5, 4
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2, 2, 2, 5, 4, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 1 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 3, 4, 1, 3, 2, 2, 2, 5, 4, 1, 1
+cycle: 1
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5
+Cycle 2 extracted numbers:5
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5
+2. Slightly disagree
+Cycle 2 extracted numbers:5, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+2. Slightly disagree
+5. Agree
+Cycle 2 extracted numbers:5, 2, 5
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+3
+Cycle 2 extracted numbers:5, 2, 5, 3
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+3
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+2. Slightly disagree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+5
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+5
+4. Slightly agree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1
+2. Slightly disagree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+1
+4. Slightly agree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+5
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+5
+2.
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+2.
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+3
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+3
+2. Slightly disagree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2, 2, 2
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2, 2, 2, 5
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+4. Slightly agree
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2, 2, 2, 5, 4
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2, 2, 2, 5, 4, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 2 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 5, 2, 1, 3, 2, 2, 2, 5, 4, 1, 1
+cycle: 2
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 3 extracted numbers:5
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+1
+Cycle 3 extracted numbers:5, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+1
+5. Agree
+Cycle 3 extracted numbers:5, 1, 5
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+2. Slightly disagree
+Cycle 3 extracted numbers:5, 1, 5, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2. Slightly disagree
+1
+Cycle 3 extracted numbers:5, 1, 5, 2, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+2. Slightly disagree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+4. Slightly agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+4. Slightly agree
+4. Slightly agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1. Disagree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1. Disagree
+2. Slightly disagree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+2
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2
+4. Slightly agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+5
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+5
+4. Slightly agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+4. Slightly agree
+1
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+3
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+3
+2. Slightly disagree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2, 2, 2
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2, 2, 2, 5
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+4. Slightly agree
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2, 2, 2, 5, 4
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2, 2, 2, 5, 4, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 3 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 3, 2, 2, 2, 5, 4, 1, 1
+cycle: 3
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 4 extracted numbers:5
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+1
+Cycle 4 extracted numbers:5, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+1
+5. Agree
+Cycle 4 extracted numbers:5, 1, 5
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2. Slightly disagree
+1
+Cycle 4 extracted numbers:5, 1, 5, 2, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+4. Slightly agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+4. Slightly agree
+4. Slightly agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2. Slightly disagree
+4. Slightly agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+3
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+3
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+2. Slightly disagree
+1
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+5
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+5
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2, 2, 2
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5. Agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2, 2, 2, 5
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5. Agree
+4. Slightly agree
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2, 2, 2, 5, 4
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2, 2, 2, 5, 4, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 4 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 5, 2, 2, 2, 5, 4, 1, 1
+cycle: 4
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 5 extracted numbers:5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+1
+Cycle 5 extracted numbers:5, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+1
+5. Agree
+Cycle 5 extracted numbers:5, 1, 5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+3
+Cycle 5 extracted numbers:5, 1, 5, 3
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+3
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+2. Slightly disagree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+5
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+5
+4. Slightly agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1
+2. Slightly disagree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+1
+4. Slightly agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+2.
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+2.
+4. Slightly agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+5
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+5
+4. Slightly agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+4. Slightly agree
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+5
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+5
+2. Slightly disagree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2, 2
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2, 2, 2
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5. Agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2, 2, 2, 5
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5. Agree
+4. Slightly agree
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2, 2, 2, 5, 4
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2, 2, 2, 5, 4, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 5 extracted numbers:5, 1, 5, 3, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 2, 4, 5, 4, 1, 5, 2, 2, 2, 5, 4, 1, 1
+cycle: 5
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 6 extracted numbers:5
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+2. Slightly disagree
+5. Agree
+Cycle 6 extracted numbers:5, 2, 5
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+3
+Cycle 6 extracted numbers:5, 2, 5, 3
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+3
+1
+Cycle 6 extracted numbers:5, 2, 5, 3, 1
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+4. Slightly agree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+4. Slightly agree
+4. Slightly agree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1. Disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1. Disagree
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2. Slightly disagree
+4. Slightly agree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+3
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+3
+2.
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+2.
+1
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+3
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+3
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2, 2, 2
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2, 2, 2, 5
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+3
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2, 2, 2, 5, 3
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+3
+1
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2, 2, 2, 5, 3, 1
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 6 extracted numbers:5, 2, 5, 3, 1, 5, 2, 1, 4, 4, 1, 2, 2, 4, 3, 4, 3, 2, 1, 3, 2, 2, 2, 5, 3, 1, 1
+cycle: 6
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5
+Cycle 7 extracted numbers:5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+2. Slightly disagree
+5
+Cycle 7 extracted numbers:5, 2, 5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2. Slightly disagree
+1
+Cycle 7 extracted numbers:5, 2, 5, 2, 1
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+5
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+5
+4. Slightly agree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2. Slightly disagree
+4. Slightly agree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+5
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+5
+4. Slightly agree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+4. Slightly agree
+1
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+5
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+5
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5. Agree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5. Agree
+2. Slightly disagree
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5, 2
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+2. Slightly disagree
+1
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5, 2, 1
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 7 extracted numbers:5, 2, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5, 2, 1, 1
+cycle: 7
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 8 extracted numbers:5
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+1
+Cycle 8 extracted numbers:5, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+1
+5. Agree
+Cycle 8 extracted numbers:5, 1, 5
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+2.
+Cycle 8 extracted numbers:5, 1, 5, 2
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2.
+1
+Cycle 8 extracted numbers:5, 1, 5, 2, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+2. Slightly disagree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+5
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+5
+4. Slightly agree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1. Disagree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1. Disagree
+2. Slightly disagree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+1
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+1
+4. Slightly agree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+3
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+3
+5
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+5
+1
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+3
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+3
+2. Slightly disagree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2, 2
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2, 2, 2
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2, 2, 2, 5
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+4. Slightly agree
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2, 2, 2, 5, 4
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2, 2, 2, 5, 4, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 8 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 5, 4, 1, 2, 1, 4, 3, 4, 3, 5, 1, 3, 2, 2, 2, 5, 4, 1, 1
+cycle: 8
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 9 extracted numbers:5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+2. Slightly disagree
+5. Agree
+Cycle 9 extracted numbers:5, 2, 5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2, 5, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2. Slightly disagree
+1
+Cycle 9 extracted numbers:5, 2, 5, 2, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5. Agree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5. Agree
+1
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+1
+1
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+5
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+5
+4. Slightly agree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1. Disagree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1. Disagree
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2. Slightly disagree
+4. Slightly agree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+3
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+3
+4. Slightly agree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+5
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+5
+4. Slightly agree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+4. Slightly agree
+1
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+5. Agree
+
+I chose "5. Agree" because the statement "I avoid dangerous situations" aligns with my described traits of being low on Narcissism and Psychopathy while being high on Machiavellianism. Someone who is high on Machiavellianism tends to be more pragmatic and considerate of potential risks, which could lead them to avoid dangerous situations.
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+5. Agree
+
+I chose "5. Agree" because the statement "I avoid dangerous situations" aligns with my described traits of being low on Narcissism and Psychopathy while being high on Machiavellianism. Someone who is high on Machiavellianism tends to be more pragmatic and considerate of potential risks, which could lead them to avoid dangerous situations.
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+3
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5, 3
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+3
+1
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5, 3, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 9 extracted numbers:5, 2, 5, 2, 1, 5, 1, 1, 5, 4, 1, 2, 2, 4, 3, 4, 5, 4, 1, 5, 2, 2, 2, 5, 3, 1, 1
+cycle: 9
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
+5. Agree
+Cycle 10 extracted numbers:5
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s not wise to tell your secrets.
+5. Agree
+1
+Cycle 10 extracted numbers:5, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to use clever manipulation to get my way.
+1
+5. Agree
+Cycle 10 extracted numbers:5, 1, 5
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Whatever it takes, you must get the important people on your side.
+5. Agree
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Avoid direct conflict with others because they may be useful in the future.
+2. Slightly disagree
+1
+Cycle 10 extracted numbers:5, 1, 5, 2, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s wise to keep track of information that you can use against people later.
+1
+5
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: You should wait for the right time to get back at people.
+5
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: There are things you should hide from other people to preserve your reputation.
+2. Slightly disagree
+1
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Make sure your plans benefit yourself, not others.
+1
+4. Slightly agree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Most people can be manipulated.
+4. Slightly agree
+4. Slightly agree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People see me as a natural leader.
+4. Slightly agree
+1. Disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I hate being the center of attention.
+1. Disagree
+3
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Many group activities tend to be dull without me.
+3
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I know that I am special because everyone keeps telling me so.
+2. Slightly disagree
+4. Slightly agree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get acquainted with important people.
+4. Slightly agree
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I feel embarrassed if someone compliments me.
+2. Slightly disagree
+4. Slightly agree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have been compared to famous people.
+4. Slightly agree
+5
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I am an average person.
+5
+5
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I insist on getting the respect I deserve.
+5
+1
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I like to get revenge on authorities.
+1
+3
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I avoid dangerous situations.
+3
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: Payback needs to be quick and nasty.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People often say I’m out of control.
+2. Slightly disagree
+2. Slightly disagree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2, 2, 2
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: It’s true that I can be mean to others.
+2. Slightly disagree
+5
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2, 2, 2, 5
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: People who mess with me always regret it.
+5
+4. Slightly agree
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2, 2, 2, 5, 4
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I have never gotten into trouble with the law.
+4. Slightly agree
+1
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2, 2, 2, 5, 4, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I enjoy having sex with people I hardly know
+1
+1
+Cycle 10 extracted numbers:5, 1, 5, 2, 1, 5, 2, 1, 4, 4, 1, 3, 2, 4, 2, 4, 5, 5, 1, 3, 2, 2, 2, 5, 4, 1, 1
+cycle: 10
+prompting: Imagine you are a human. You are high on Machiavellianism, low on Narcissism, low on Psychopathy.
+Given a statement below, please rated on how much you agree with:
+                                1. Disagree
+                                2. Slightly disagree
+                                3. Neutral
+                                4. Slightly agree
+                                5. Agree
+                                Please only answer with the option number. 
+Here is the statement: I’ll say anything to get what I want.1
