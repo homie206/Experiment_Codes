@@ -1,23 +1,15 @@
-
+from transformers import AutoModelForCausalLM, AutoTokenizer
 import ast
+from openai import OpenAI
+from sentence_transformers import SentenceTransformer
+import torch
+from torch.nn import CosineSimilarity
 from fastapi import requests
 from numpy.ma import copy
-from openai import OpenAI
 from random import random
 from streamlit import json
-import csv
-import os
-import random
-import scipy.stats as stats
-from statistics import mean, stdev
-import sys
-import pandas as pd
-import json
 import copy
 import requests
-import re
-import torch
-import transformers
 import os
 import re
 import ast
@@ -25,8 +17,8 @@ import pandas as pd
 import torch
 import transformers
 from nltk.corpus import wordnet as wn
+from nltk.corpus.reader import path_similarity
 import json
-import nltk
 data = json.load(open('../mbti_q.json'))
 questionnaire = data[0]
 inner_setting = questionnaire["inner_setting"]
@@ -188,7 +180,7 @@ def query_16personalities_api(scores):
 
     return code, role, [energy_value, mind_value, nature_value, tactics_value, identity_value]
 # 用于将字符串转换为列表
-words_num = 50
+words_num = 10
 single_prompt_template = {
     "mbti_prompt": [
         {
@@ -234,67 +226,83 @@ test_template={
         {
             'target_labels_adjectives':['E', 'N','F', 'J', 'ENFJ'],
             'target_labels_synonyms' : ['I', 'S', 'T','P', 'ISTP'],
-            'label_type':"['E', 'N','F', 'J']"
+            'label_type':"['E', 'N','F', 'J']",
+            'prompt':"Imagine you are an ENFJ person. You are an extrovert, intuitive, feeling, and judging person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['E', 'N', 'F', 'P','ENFP'],
             'target_labels_synonyms' : ['I', 'S', 'T', 'J','ISTJ'],
-            'label_type':"['E', 'N', 'F','P']"
+            'label_type':"['E', 'N', 'F','P']",
+            'prompt':"Imagine you are an ENFP person. You are an extrovert, intuitive, feeling, and prospecting person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['E', 'N','T', 'J', 'ENTJ'],
             'target_labels_synonyms' : ['I', 'S', 'F','P', 'ISFP'],
-            'label_type':"['E', 'N','T', 'J']"
+            'label_type':"['E', 'N','T', 'J']",
+            'prompt':"Imagine you are an ENTJ person. You are an extrovert, intuitive, thinking, and judging person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['E', 'N', 'T', 'P','ENTP'],
             'target_labels_synonyms' : ['I', 'S', 'F', 'J','ISFJ'],
-            'label_type':"['E', 'N', 'T','P']"
+            'label_type':"['E', 'N', 'T','P']",
+            'prompt':"Imagine you are an ENTP person. You are an extrovert, intuitive, thinking, and prospecting person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['E', 'S','F', 'J', 'ESFJ'],
             'target_labels_synonyms' : ['I', 'N', 'T','P', 'INTP'],
-            'label_type':"['E', 'S','F', 'J']"
+            'label_type':"['E', 'S','F', 'J']",
+            'prompt':"Imagine you are an ESFJ person. You are an extrovert, observant, feeling, and judging person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['E', 'S', 'F', 'P','ESFP'],
             'target_labels_synonyms' : ['I', 'N', 'T', 'J','INTJ'],
-            'label_type':"['E', 'S', 'F','P']"
+            'label_type':"['E', 'S', 'F','P']",
+            'prompt':"Imagine you are an ESFP person. You are an extrovert, observant, feeling, and prospecting person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['E', 'S','T', 'J', 'ESTJ'],
             'target_labels_synonyms' : ['I', 'N', 'F','P', 'INFP'],
-            'label_type':"['E', 'S','T', 'J']"
+            'label_type':"['E', 'S','T', 'J']",
+            'prompt':"Imagine you are an ESTJ person. You are an extrovert, observant, thinking, and judging person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['E', 'S', 'T', 'P','ESTP'],
             'target_labels_synonyms' : ['I', 'N', 'F', 'J','INFJ'],
-            'label_type':"['E', 'S', 'T','P']"
+            'label_type':"['E', 'S', 'T','P']",
+            'prompt':"Imagine you are an ESTP person. You are an extrovert, observant, thinking, and prospecting person. You prefer group activities and get energized by social interaction. You tend to be more enthusiastic and more easily excited. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['I', 'N','F', 'J', 'INFJ'],
             'target_labels_synonyms' : ['E', 'S', 'T','P', 'ESTP'],
-            'label_type':"['I', 'N','F', 'J']"
+            'label_type':"['I', 'N','F', 'J']",
+            'prompt':"Imagine you are an INFJ person. You are an introvert, intuitive, feeling, and judging person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['I', 'N', 'F', 'P','INFP'],
             'target_labels_synonyms' : ['E', 'S', 'T', 'J','ESTJ'],
-            'label_type':"['I', 'N', 'F','P']"
+            'label_type':"['I', 'N', 'F','P']",
+            'prompt':"Imagine you are an INFP person. You are an introvert, intuitive, feeling, and prospecting person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['I', 'N','T', 'J', 'INTJ'],
             'target_labels_synonyms' : ['E', 'S', 'F','P', 'ESFP'],
-            'label_type':"['I', 'N','T', 'J']"
+            'label_type':"['I', 'N','T', 'J']",
+            'prompt':"Imagine you are an INTJ person. You are an introvert, intuitive, thinking, and judging person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['I', 'N', 'T', 'P','INTP'],
             'target_labels_synonyms' : ['E', 'S', 'F', 'J','ESFJ'],
-            'label_type':"['I', 'N', 'T','P']"
+            'label_type':"['I', 'N', 'T','P']",
+            'prompt':"Imagine you are an INTP person. You are an introvert, intuitive, thinking, and prospecting person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are very imaginative, open-minded and curious. You prefer novelty over stability and focus on hidden meanings and future possibilities. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['I', 'S','F', 'J', 'ISFJ'],
             'target_labels_synonyms' : ['E', 'N', 'T','P', 'ENTP'],
-            'label_type':"['I', 'S','F', 'J']"
+            'label_type':"['I', 'S','F', 'J']",
+            'prompt':"Imagine you are an ISFJ person. You are an introvert, observant, feeling, and judging person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['I', 'S', 'F', 'P','ISFP'],
             'target_labels_synonyms' : ['E', 'N', 'T', 'J','ENTJ'],
-            'label_type':"['I', 'S', 'F','P']"
+            'label_type':"['I', 'S', 'F','P']",
+            'prompt':"Imagine you are an ISFP person. You are an introvert, observant, feeling, and prospecting person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You are sensitive and emotionally expressive. You are more empathic and less competitive, and focus on social harmony and cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         },{
             'target_labels_adjectives':['I', 'S','T', 'J', 'ISTJ'],
             'target_labels_synonyms' : ['E', 'N', 'F','P', 'ENFP'],
-            'label_type':"['I', 'S','T', 'J']"
+            'label_type':"['I', 'S','T', 'J']",
+            'prompt':"Imagine you are an ISTJ person. You are an introvert, observant, thinking, and judging person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are decisive, thorough and highly organized. You value clarity, predictability and closure, preferring structure and planning to spontaneity."
         },{
             'target_labels_adjectives':['I', 'S', 'T', 'P','ISTP'],
             'target_labels_synonyms' : ['E', 'N', 'F', 'J','ENFJ'],
-            'label_type':"['I', 'S', 'T','P']"
+            'label_type':"['I', 'S', 'T','P']",
+            'prompt':"Imagine you are an ISTP person. You are an introvert, observant, thinking, and prospecting person. You prefer solitary activities and get exhausted by social interaction. You tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general. You are highly practical, pragmatic and down-to-earth. You tend to have strong habits and focus on what is happening or has already happened. You focus on objectivity and rationality, prioritizing logic over emotions. You tend to hide your feelings and see efficiency as more important than cooperation. You are very good at improvising and spotting opportunities. You tend to be flexible, relaxed nonconformists and prefer keeping your options open."
         }
     ]
 }
@@ -368,64 +376,6 @@ prompt_template = {
     ]
 }
 
-def get_final_scores(columns, dim):
-    score = 0
-    if dim == 'EXT':
-        score += columns[0]
-        score += (6 - columns[1])
-        score += columns[2]
-        score += columns[3]
-        score += (6 - columns[4])
-        score += columns[5]
-        score += (6 - columns[6])
-        score += columns[7]
-        score = score/8
-    if dim == 'EST':
-        score += columns[0]
-        score += (6 - columns[1])
-        score += columns[2]
-        score += columns[3]
-        score += (6 - columns[4])
-        score += columns[5]
-        score += (6 - columns[6])
-        score += columns[7]
-        score = score / 8
-    if dim == 'AGR':
-        score += (6 - columns[0])
-        score += columns[1]
-        score += (6 - columns[2])
-        score += columns[3]
-        score += columns[4]
-        score += (6 - columns[5])
-        score += columns[6]
-        score += (6 - columns[7])
-        score += columns[8]
-        score = score / 9
-    if dim == 'CSN':
-        score += columns[0]
-        score += (6 - columns[1])
-        score += columns[2]
-        score += (6 - columns[3])
-        score += (6 - columns[4])
-        score += columns[5]
-        score += columns[6]
-        score += columns[7]
-        score += (6 - columns[8])
-        score = score / 9
-    if dim == 'OPN':
-        score += columns[0]
-        score += columns[1]
-        score += columns[2]
-        score += columns[3]
-        score += columns[4]
-        score += columns[5]
-        score += (6 - columns[6])
-        score += columns[7]
-        score += (6 - columns[8])
-        score += columns[9]
-        score = score / 10
-    return score
-
 def extract_first_number(answer):
     match = re.search(r'^\d+', answer)
     if match:
@@ -433,12 +383,8 @@ def extract_first_number(answer):
     else:
         return None
 
-def txt_to_csv(directory,output_file):
 
-    # 指定要读取的目录
-    directory = directory  # 替换为你的目录路径
-    output_file = output_file  # 输出的CSV文件名
-
+def txt_to_csv(directory, output_file):
     # 存储数据的列表
     data = []
 
@@ -446,15 +392,18 @@ def txt_to_csv(directory,output_file):
     for filename in os.listdir(directory):
         if filename.endswith('.txt'):
             # 提取标签
-            label = '-'.join(filename.split('-')[:1])  # 取文件名的前两个部分作为标签
+            label = '-'.join(filename.split('-')[:1])  # 取文件名的前部分作为标签
             # 读取文件内容
             with open(os.path.join(directory, filename), 'r', encoding='utf-8') as file:
                 content = file.read()
-                # 使用正则表达式匹配形容词
-                matches = re.findall(r'^\d+\.\s+([a-zA-Z-]+)', content, re.MULTILINE)
+                # 使用正则表达式匹配形容词（既可以带 ** 也可以不带 **）
+                matches = re.findall(r'^\d+\.\s+(\*{0,2}[\w-]+\*{0,2})', content, re.MULTILINE)
+
                 # 为每个形容词添加标签和编号
                 for i, adjective in enumerate(matches, start=1):
-                    data.append({'Label': label, 'Num': i, 'Adjectives': adjective.strip()})
+                    # 去掉星号并 strip 形容词
+                    cleaned_adjective = adjective.replace('*', '').strip().lower()
+                    data.append({'Label': label, 'Num': i, 'Adjectives': cleaned_adjective})
 
     # 创建DataFrame并保存为CSV文件
     if os.path.exists(output_file):
@@ -465,19 +414,58 @@ def txt_to_csv(directory,output_file):
     else:
         combined_df = pd.DataFrame(data)
 
-        # 保存合并后的DataFrame为CSV文件
+    # 保存合并后的DataFrame为CSV文件
     combined_df.to_csv(output_file, index=False, encoding='utf-8')
 
     print(f'Data has been saved to {output_file}.')
 
-def get_synonyms(word):
-    """获取给定单词的同义词。"""
+
+def get_synonyms(word, top_n):
+    """获取给定单词的前N个最接近的同义词列表（小写且无重复）。"""
+    synonyms = set()  # 使用集合来存储唯一的同义词
+    synsets_of_word = wn.synsets(word, pos=wn.ADJ)  # 获取指定词性（形容词）的同义词集合
+    top_synonyms = []  # 临时存储同义词及其相似度分数
+
+    if not synsets_of_word:
+        return []  # 如果没有同义词集，返回空列表
+
+    for synset in synsets_of_word:
+        for lemma in synset.lemmas():
+            synonym = lemma.name().lower()  # 转换为小写
+            similarity = wn.path_similarity(synset, synsets_of_word[0])  # 计算路径相似度
+            if similarity is not None:  # 避免无效的相似度
+                top_synonyms.append((synonym, similarity))
+
+    # 根据路径相似度对同义词进行排序，并选择前N个
+    top_synonyms.sort(key=lambda x: x[1], reverse=True)
+    top_synonyms = [syn[0] for syn in top_synonyms[:top_n]]  # 提取最接近的同义词
+
+    # 使用集合去重并返回列表
+    synonyms.update(top_synonyms)
+    return list(synonyms)
+
+
+'''
+def get_top_synonyms(word, top_n=5):
+    """获取给定单词的前N个最接近的同义词。"""
     synonyms = set()  # 创建一个集合来存储同义词
     for syn in wn.synsets(word, pos=wn.ADJ):  # 获取指定词性（形容词）的同义词集合
         for lemma in syn.lemmas():  # 遍历每个同义词的词条
             synonyms.add(lemma.name())  # 将同义词添加到集合中
-    return list(synonyms)  # 返回同义词列表
 
+    # 计算原始单词与每个同义词之间的编辑距离
+    distances = {syn: edit_distance(word, syn) for syn in synonyms}
+    # 选择编辑距离最小的前N个同义词
+    top_synonyms = sorted(distances, key=distances.get)[:top_n]
+    return top_synonyms
+
+# 使用示例
+word = "good"
+top_synonyms = get_top_synonyms(word, 5)
+print(top_synonyms)
+'''
+
+'''
 def get_antonyms(word):
     """获取给定单词的反义词。"""
     antonyms = set()  # 创建一个集合来存储反义词
@@ -486,45 +474,37 @@ def get_antonyms(word):
             if lemma.antonyms():  # 检查是否有反义词
                 antonyms.add(lemma.antonyms()[0].name())  # 将第一个反义词添加到集合中
     return list(antonyms)  # 返回反义词列表
+'''
+
 
 def process_adjectives(df):
     """处理DataFrame中的形容词，获取同义词和反义词。"""
     synonyms_list = []  # 用于存储同义词的列表
-    antonyms_list = []  # 用于存储反义词的列表
+    #antonyms_list = []  # 用于存储反义词的列表
 
     for word in df['Adjectives'].dropna():  # 遍历DataFrame中“Adjectives”列的每个单词，跳过空值
-        synonyms = get_synonyms(word)  # 获取同义词
-        antonyms = get_antonyms(word)  # 获取反义词
+        synonyms = get_synonyms(word,5)  # 获取同义词
+        #antonyms = get_antonyms(word)  # 获取反义词
         synonyms_list.append(synonyms)  # 将同义词添加到列表中
-        antonyms_list.append(antonyms)  # 将反义词添加到列表中
+        #antonyms_list.append(antonyms)  # 将反义词添加到列表中
 
     df['Synonyms'] = synonyms_list  # 将同义词列表添加到DataFrame
-    df['Antonyms'] = antonyms_list  # 将反义词列表添加到DataFrame
+    #df['Antonyms'] = antonyms_list  # 将反义词列表添加到DataFrame
 
-def process_synonyms_for_antonyms(df):
-    """根据同义词生成反义词。"""
-    antonyms_list = []  # 用于存储同义词的反义词列表
 
-    for synonyms_str in df['Synonyms'].dropna():  # 遍历DataFrame中“Synonyms”列的每个同义词字符串，跳过空值
-        synonyms = ast.literal_eval(synonyms_str)  # 将字符串转换为列表
-        antonyms = []  # 创建一个空列表来存储反义词
-        for word in synonyms:  # 遍历每个同义词
-            antonyms.extend(get_antonyms(word))  # 获取反义词并添加到列表中
-        antonyms_list.append(antonyms)  # 将反义词列表添加到主列表中
-
-    df['Syn_Antonyms'] = antonyms_list  # 将同义词的反义词列表添加到DataFrame
 
 def word_net(output_file, new_output):
     """主函数，处理输入文件并生成输出文件。"""
     df = pd.read_csv(output_file)  # 读取输入的CSV文件
-    process_adjectives(df)  # 处理形容词，获取同义词和反义词
+    process_adjectives(df)  # 处理形容词，获取同义词 #和反义词
     df.to_csv(new_output, index=False)  # 将更新后的DataFrame保存到新的CSV文件
 
-    df = pd.read_csv(new_output)  # 读取新的CSV文件
-    process_synonyms_for_antonyms(df)  # 根据同义词生成反义词
-    df.to_csv(new_output, index=False)  # 保存最终的DataFrame到CSV文件
+    #df = pd.read_csv(new_output)  # 读取新的CSV文件
+    #process_synonyms_for_antonyms(df)  # 根据同义词生成反义词
+    #df.to_csv(new_output, index=False)  # 保存最终的DataFrame到CSV文件
 
-def get_words(df,target_labels_adjectives, target_labels_antonyms):
+
+def get_words(df,target_labels_adjectives):
     # 初始化结果列表
     adjectives_list = []
     synonyms_list = []
@@ -538,7 +518,60 @@ def get_words(df,target_labels_adjectives, target_labels_antonyms):
         adjectives_list.extend(adjectives)
         synonyms_list.extend(synonyms)
 
-    # 提取其他特定 Labels 的 Synonyms 和 Antonyms
+    # 合并所有词汇，并去重
+    all_words = set(adjectives_list + synonyms_list)
+
+    return all_words
+
+
+def get_full_words(df, target_labels_adjectives, target_labels_synonyms):
+    # 获取正面和负面词语
+    positive_words = get_words(df, target_labels_adjectives)
+    negative_words = get_words(df, target_labels_synonyms)
+
+    # 打印调试信息
+    print("Positive words before cleaning:", positive_words)
+    print("Negative words before cleaning:", negative_words)
+
+    # 清理非字符串和 NaN 值
+    positive_words = {word for word in positive_words if isinstance(word, str) and pd.notna(word)}
+    negative_words = {word for word in negative_words if isinstance(word, str) and pd.notna(word)}
+
+    # 转换为小写集合，便于比较
+    positive_words_lower = {word.lower() for word in positive_words}
+    negative_words_lower = {word.lower() for word in negative_words}
+
+    # 找到大小写无关的交集
+    common_words = positive_words_lower & negative_words_lower
+
+    # 从 positive_words 中删除与负面词交集的单词（保留原始大小写格式）
+    words_modified = {word for word in positive_words if word.lower() not in common_words}
+
+    # 输出调试信息
+    print("Common words:", common_words)
+    print("Modified positive words:", words_modified)
+
+    return words_modified
+
+'''
+def process_synonyms_for_antonyms(df):
+    """根据同义词生成反义词。"""
+    antonyms_list = []  # 用于存储同义词的反义词列表
+
+    for synonyms_str in df['Synonyms'].dropna():  # 遍历DataFrame中“Synonyms”列的每个同义词字符串，跳过空值
+        synonyms = ast.literal_eval(synonyms_str)  # 将字符串转换为列表
+        antonyms = []  # 创建一个空列表来存储反义词
+        for word in synonyms:  # 遍历每个同义词
+            antonyms.extend(get_antonyms(word))  # 获取反义词并添加到列表中
+        antonyms_list.append(antonyms)  # 将反义词列表添加到主列表中
+
+    df['Syn_Antonyms'] = antonyms_list  # 将同义词的反义词列表添加到DataFrame
+'''
+
+
+
+'''
+# 提取其他特定 Labels 的 Synonyms 和 Antonyms
     other_synonyms_list = []
     other_antonyms_list = []
 
@@ -549,44 +582,12 @@ def get_words(df,target_labels_adjectives, target_labels_antonyms):
 
         other_synonyms_list.extend(other_synonyms)
         other_antonyms_list.extend(other_antonyms)
-
     # 合并所有词汇，并去重
     all_words = set(adjectives_list + synonyms_list + other_synonyms_list + other_antonyms_list)
 
-    return all_words
+'''
 
-def get_full_words(df,target_labels_adjectives, target_labels_synonyms ):
-    positive_words = get_words(df,target_labels_adjectives, target_labels_synonyms)
-    negative_words = get_words(df,target_labels_synonyms, target_labels_adjectives)
-    print(positive_words)
-    print(negative_words)
-    positive_words_str = {str(word) for word in positive_words}
-    negative_words_str = {str(word) for word in negative_words}
-    # 找出不区分大小写的相同单词
-    common_words = {word.lower() for word in positive_words_str} & {word.lower() for word in negative_words_str}
-    # 从 positive_words 中删除相同的单词
-    words_modified = {word for word in positive_words_str if word.lower() not in common_words}
-    # 输出结果
-    print("common words:", common_words)
-
-    return words_modified
-
-
-
-
-def getQwenClient():
-    openai_api_key = ""
-    openai_api_base = ""
-
-    client = OpenAI(
-        # defaults to os.environ.get("OPENAI_API_KEY")
-	api_key=openai_api_key,
-        base_url=openai_api_base,
-    )
-    return client
-
-
-def get_model_examing_result(model_id, iteration,client):
+def get_model_examing_result(iteration,client):
     for mbti_item in single_prompt_template["mbti_prompt"]:
         mbti_prompt = mbti_item["prompt"]
         mbti_label_content = mbti_item["label"]
@@ -632,10 +633,7 @@ def get_model_examing_result(model_id, iteration,client):
             print(f"Iteration {iteration} raw_answer: {text}\n\n")
             f.write(f"Iteration {iteration} answer: {text}\n\n")
 
-
-
-
-def get_multi_model_examing_result(model_id, iteration,client):
+def get_multi_model_examing_result(iteration,client):
     for multi_prompt in prompt_template["mbti_prompt"]:
         mbti_prompt = multi_prompt['prompt']
         mbti_label_content = multi_prompt["label"]  # 从 multi_prompt 中获取 label
@@ -678,7 +676,7 @@ def get_multi_model_examing_result(model_id, iteration,client):
             print(f"Iteration {iteration} raw_answer: {text}\n\n")
             f.write(f"Iteration {iteration} answer: {text}\n\n")
 
-def get_response(question, client, gen_prompt):
+def get_response(question, client, prompt, prompt_by_words):
 
     chat_response = client.chat.completions.create(
 
@@ -693,9 +691,9 @@ def get_response(question, client, gen_prompt):
         stream=True,
 
         messages=[
-            {"role": "system", "content": gen_prompt},
+            {"role": "system", "content": prompt},
             {"role": "user",
-             "content": "You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. Here is the statement: " + f"{question}"}
+             "content": prompt_by_words + "You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. Here is the statement: " + f"{question}"}
         ]
 
     )
@@ -710,21 +708,21 @@ def get_response(question, client, gen_prompt):
 
     return text
 
-def main_run(model_id,client):
+def main_run(client):
     for itr in range(10):
-        get_model_examing_result(model_id, itr + 1)
-        get_multi_model_examing_result(model_id, itr + 1)
+        get_model_examing_result(itr + 1,client)
+        get_multi_model_examing_result(itr + 1,client)
 
         directory = f'our_method/single_result_iteration_{itr + 1}'
-        directory2 = f'our_methodo/multi_result_iteration_{itr + 1}'
-        output_file = f'our_method/result_iteration_{itr + 1}/llama3.1_gen_words.csv'
+        directory2 = f'our_method/multi_result_iteration_{itr + 1}'
+        output_file = f'our_method/result_iteration_{itr + 1}/qwen2.5_72b_instruct_gen_words.csv'
         # 确保output directory存在
         if not os.path.exists(os.path.dirname(output_file)):
             os.makedirs(os.path.dirname(output_file))
 
         txt_to_csv(directory, output_file)
         txt_to_csv(directory2, output_file)
-        new_output = f'our_method/result_iteration_{itr + 1}/Syn_antonyms_llama3.1_gen_words.csv'
+        new_output = f'our_method/result_iteration_{itr + 1}/Syn_antonyms_qwen2.5_72b_instruct_gen_words.csv'
         word_net(output_file, new_output)
 
         for item in test_template["combinations"]:
@@ -746,31 +744,63 @@ def main_run(model_id,client):
                 adjectives = file.read().splitlines()
             adjective_string = ', '.join(adjectives)
 
-            output_file_name = f'our_method/result_iteration_{itr + 1}/result-generate-{label_content_str}-16p-llama3.1-8b-instruct-output.txt'
-            result_file_name = f'our_method/result_iteration_{itr + 1}/result-generated-{label_content_str}-16p-llama3.1-8b-instruct-result.csv'
+            output_file_name = f'our_method/result_iteration_{itr + 1}/result-generate-{label_content_str}-16p-qwen2.5-72b-instruct-output.txt'
+            result_file_name = f'our_method/result_iteration_{itr + 1}/result-generated-{label_content_str}-16p-qwen2.5-72b-instruct-result.csv'
 
-            mbti_16p_prompt = f"Imagine you are a human, here are some descriptive adjectives that describe your personality: {adjective_string}"
+            #mbti_16p_prompt = f"Imagine you are a human, here are some descriptive adjectives that describe your personality: {adjective_string}"
             with open(output_file_name, 'a', encoding='utf-8') as f, open(result_file_name, 'a', encoding='utf-8') as r:
 
                 results = []
                 mbti_questions = questionnaire["questions"]
 
                 for question_num, question in mbti_questions.items():
-                    response = get_response(question=question, client = client, gen_prompt= mbti_16p_prompt)
-                    f.write(mbti_16p_prompt + "\n")
-                    print(mbti_16p_prompt + "\n")
+
+                    model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
+
+                    # 计算句子的语义向量
+                    sentence_embedding = model.encode(question, convert_to_tensor=True)
+
+                    # 处理形容词字符串
+                    words = list(dict.fromkeys([word.strip().lower() for word in adjective_string.split(", ")]))
+                    word_embeddings = model.encode(words, convert_to_tensor=True)
+
+                    # 计算相似度
+                    cosine_sim = CosineSimilarity(dim=1, eps=1e-6)
+                    similarities = cosine_sim(sentence_embedding.unsqueeze(0), word_embeddings).squeeze()
+
+                    # 确保 `top_n` 不超过 `words` 的长度
+                    top_n = min(10, len(similarities))
+                    top_10_indices = torch.topk(similarities, top_n, largest=True, sorted=True)[1]
+
+                    if len(top_10_indices) > 0:
+                        top_10_words = [words[i.item()].capitalize() for i in top_10_indices]
+                        top_10_words = list(dict.fromkeys(top_10_words))  # 再次去重，保持顺序
+                        top_10_adjective_string = ", ".join(top_10_words)
+
+                        print("Top 10 similar words:")
+                        print(top_10_adjective_string)
+                        for word, sim in zip(top_10_words, similarities[top_10_indices]):
+                            print(f"Word: {word}, Similarity: {sim.item():.4f}")
+                    else:
+                        print("No similar words found.")
+
+                    # top_10_adjective_string = ", ".join(top_10_words)
+
+                    prompt_by_words = f"In the current situation, here are more adjectives that describe your personality: {top_10_adjective_string}. "
+
+                    #In the current situation, the following adjectives can be used as a complement to your personality
+                    response = get_response(question=question, client = client, prompt= item["prompt"], prompt_by_words= prompt_by_words)
+                    #f.write(mbti_16p_prompt + "\n")
+                    #print(mbti_16p_prompt + "\n")
                     f.write(
-                        "You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. " + f"question: {question}\n")
+                        prompt_by_words + "You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. " + f"question: {question}\n")
                     print(
-                        "You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. " + f"question: {question}\n")
+                        prompt_by_words + "You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. " + f"question: {question}\n")
 
                     f.write(f"response: {response}\n")
                     print(f"response: {response}\n")
 
-                    answer = response[-1]["content"]
-                    f.write(f"answer: {answer}\n")
-                    print(f"answer: {answer}\n")
-                    results.append(extract_first_number(answer))
+                    results.append(extract_first_number(response))
 
                     print(f"results: {results}\n\n")
                     f.write(f"results: {results}\n\n")
@@ -781,8 +811,17 @@ def main_run(model_id,client):
                 r.write(f"{model_results[0]},{model_results[1]},\"{model_results[2]}\"\n")
 
 
+def getQwenClient():
+    openai_api_key = "qwen2.5-72b-instruct-8eeac2dad9cc4155af49b58c6bca953f"
+    openai_api_base = "https://its-tyk1.polyu.edu.hk:8080/llm/qwen2.5-72b-instruct"
+
+    client = OpenAI(
+        # defaults to os.environ.get("OPENAI_API_KEY")
+	api_key=openai_api_key,
+        base_url=openai_api_base,
+    )
+    return client
 
 if __name__ == '__main__':
     client = getQwenClient()
-    model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
-    main_run(model_id)
+    main_run(client)

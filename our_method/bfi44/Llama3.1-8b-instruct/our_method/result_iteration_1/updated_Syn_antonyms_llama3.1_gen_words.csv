@@ -1,0 +1,421 @@
+Label,Num,Adjectives,Synonyms
+O-High,1,innovative,"['forward-looking', 'modern', 'advanced', 'innovative']"
+O-High,2,visionary,"['laputan', 'impractical', 'windy', 'visionary', 'airy']"
+O-High,3,artistic,"['esthetic', 'artistic', 'aesthetic']"
+O-High,4,intellectual,"['noetic', 'rational', 'intellectual', 'cerebral']"
+O-High,5,adventurous,"['adventurous', 'adventuresome']"
+O-High,6,inquisitive,"['wondering', 'questioning', 'inquisitive', 'speculative']"
+O-High,7,creative,"['originative', 'creative']"
+O-High,8,enthusiastic,['enthusiastic']
+O-High,9,philosophical,"['philosophic', 'philosophical']"
+O-High,10,renaissance-minded,[]
+O-Low,1,conventional,"['established', 'conventional']"
+O-Low,2,conservative,"['button-down', 'conservative', 'cautious']"
+O-Low,3,traditional,['traditional']
+O-Low,4,staid,"['staid', 'sedate']"
+O-Low,5,respectful,"['respectful', 'reverential', 'venerating']"
+O-Low,6,cautious,"['conservative', 'cautious']"
+O-Low,7,established,"['effected', 'accomplished', 'established', 'constituted']"
+O-Low,8,unadventurous,['unadventurous']
+O-Low,9,orthodox,"['orthodox', 'eastern_orthodox', 'jewish-orthodox']"
+O-Low,10,sentimental,"['maudlin', 'bathetic', 'sentimental', 'drippy', 'hokey']"
+C-High,1,meticulous,"['meticulous', 'punctilious']"
+C-High,2,diligent,"['persevering', 'diligent']"
+C-High,3,methodical,['methodical']
+C-High,4,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+C-High,5,proactive,['proactive']
+C-High,6,disciplined,['disciplined']
+C-High,7,practical,"['practical', 'hardheaded', 'pragmatic', 'hard-nosed']"
+C-High,8,persevering,"['persevering', 'diligent']"
+C-High,9,strategic,"['strategic', 'strategical']"
+C-High,10,committed,"['committed', 'attached']"
+N-Low,1,composed,['composed']
+N-Low,2,philosophical,"['philosophic', 'philosophical']"
+N-Low,3,seren,[]
+N-Low,4,steadfast,"['steady', 'steadfast', 'firm', 'unbendable', 'stiff']"
+N-Low,5,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+N-Low,6,resolute,"['resolute', 'unhesitating']"
+N-Low,7,calmative,[]
+N-Low,8,emollient,"['softening', 'salving', 'emollient', 'demulcent']"
+N-Low,9,equanimous,"['poised', 'equanimous', 'collected', 'self-collected', 'self-contained']"
+N-Low,10,serene,"['calm', 'serene', 'tranquil', 'unagitated']"
+E-High,1,vivacious,"['vivacious', 'vibrant']"
+E-High,2,exuberant,"['excessive', 'ebullient', 'extravagant', 'high-spirited', 'exuberant']"
+E-High,3,charismatic,"['magnetic', 'charismatic']"
+E-High,4,effervescent,"['effervescent', 'sparkling', 'bubbling']"
+E-High,5,confident,"['convinced', 'positive', 'confident']"
+E-High,6,adventurous,"['adventurous', 'adventuresome']"
+E-High,7,outgoing,"['outgoing', 'forthcoming', 'extroverted']"
+E-High,8,enthusiastic,['enthusiastic']
+E-High,9,energetic,"['energetic', 'industrious', 'up-and-coming', 'gumptious']"
+E-High,10,daring,"['venturesome', 'audacious', 'avant-garde', 'daring', 'venturous']"
+A-High,1,affable,"['cordial', 'amiable', 'genial', 'affable']"
+A-High,2,compassionate,['compassionate']
+A-High,3,empathetic,"['empathic', 'empathetic']"
+A-High,4,gentle,"['soft', 'aristocratic', 'gentle']"
+A-High,5,helpful,['helpful']
+A-High,6,inclusive,['inclusive']
+A-High,7,nurturing,[]
+A-High,8,sympathetic,"['kindly', 'sympathetic', 'benevolent', 'charitable']"
+A-High,9,tactful,"['tactful', 'kid-glove']"
+A-High,10,unassuming,"['retiring', 'unassuming']"
+C-Low,1,spontaneous,"['spontaneous', 'ad-lib', 'self-generated', 'unwritten']"
+C-Low,2,impetuous,"['madcap', 'tearaway', 'impetuous', 'impulsive', 'hotheaded']"
+C-Low,3,reckless,"['foolhardy', 'rash', 'reckless', 'heedless', 'heady']"
+C-Low,4,distractible,[]
+C-Low,5,disorganized,"['disorganized', 'disorganised']"
+C-Low,6,emotionally,[]
+C-Low,7,haphazard,"['slapdash', 'hit-or-miss', 'slipshod', 'haphazard']"
+C-Low,8,flighty,"['scatterbrained', 'flyaway', 'head-in-the-clouds', 'skittish', 'flighty']"
+C-Low,9,indecisive,['indecisive']
+C-Low,10,unpredictable,"['irregular', 'unpredictable']"
+E-Low,1,retiring,"['preceding', 'retiring', 'unassuming', 'past']"
+E-Low,2,unassuming,"['retiring', 'unassuming']"
+E-Low,3,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low,4,cautious,"['conservative', 'cautious']"
+E-Low,5,reserved,['reserved']
+E-Low,6,solitary,"['lone', 'lonely', 'nonsocial', 'nongregarious', 'solitary']"
+E-Low,7,muted,"['subdued', 'dull', 'quiet', 'hushed', 'muted']"
+E-Low,8,introverted,"['introspective', 'self-examining', 'introverted']"
+E-Low,9,guarded,"['guarded', 'restrained']"
+E-Low,10,unobtrusive,"['unobtrusive', 'unnoticeable']"
+N-High,1,volatile,"['explosive', 'volatile', 'fickle']"
+N-High,2,sensitized,"['hypersensitised', 'allergic', 'sensitized', 'hypersensitive', 'hypersensitized']"
+N-High,3,melancholic,"['melancholic', 'melancholy']"
+N-High,4,irritable,"['cranky', 'peevish', 'nettlesome', 'irritable', 'fractious']"
+N-High,5,emotionally,[]
+N-High,6,resentful,['resentful']
+N-High,7,overwhelmed,[]
+N-High,8,dysregulated,[]
+N-High,9,hypersensitive,"['hypersensitised', 'allergic', 'sensitized', 'hypersensitive', 'hypersensitized']"
+N-High,10,toxic,['toxic']
+A-Low,1,confrontational,['confrontational']
+A-Low,2,perfidious,"['treacherous', 'punic', 'perfidious']"
+A-Low,3,misanthropic,"['cynical', 'misanthropic', 'misanthropical']"
+A-Low,4,pugnacious,"['pugnacious', 'rough', 'hard-bitten', 'hard-boiled']"
+A-Low,5,intractable,['intractable']
+A-Low,6,cynical,"['cynical', 'misanthropic', 'misanthropical']"
+A-Low,7,disputatious,"['combative', 'disputative', 'contentious', 'litigious', 'disputatious']"
+A-Low,8,challenging,"['ambitious', 'thought-provoking', 'challenging']"
+A-Low,9,uncompromising,"['inflexible', 'sturdy', 'uncompromising']"
+A-Low,10,polarizing,[]
+E-High-N-Low-A-High-C-Low-O-Low,1,sociable,['sociable']
+E-High-N-Low-A-High-C-Low-O-Low,2,vivacious,"['vivacious', 'vibrant']"
+E-High-N-Low-A-High-C-Low-O-Low,3,affable,"['cordial', 'amiable', 'genial', 'affable']"
+E-High-N-Low-A-High-C-Low-O-Low,4,outgoing,"['outgoing', 'forthcoming', 'extroverted']"
+E-High-N-Low-A-High-C-Low-O-Low,5,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-Low-A-High-C-Low-O-Low,6,cheerful,"['upbeat', 'pollyannaish', 'cheerful']"
+E-High-N-Low-A-High-C-Low-O-Low,7,cooperative,"['cooperative', 'conjunct', 'concerted', 'conjunctive']"
+E-High-N-Low-A-High-C-Low-O-Low,8,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-Low-A-High-C-Low-O-Low,9,traditional,['traditional']
+E-High-N-Low-A-High-C-Low-O-Low,10,energetic,"['energetic', 'industrious', 'up-and-coming', 'gumptious']"
+E-High-N-High-A-High-C-Low-O-High,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-High-A-High-C-Low-O-High,2,emotionally,[]
+E-High-N-High-A-High-C-Low-O-High,3,charismatic,"['magnetic', 'charismatic']"
+E-High-N-High-A-High-C-Low-O-High,4,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-High-A-High-C-Low-O-High,5,artistic,"['esthetic', 'artistic', 'aesthetic']"
+E-High-N-High-A-High-C-Low-O-High,6,warm-hearted,[]
+E-High-N-High-A-High-C-Low-O-High,7,dramatic,"['dramatic', 'spectacular', 'striking']"
+E-High-N-High-A-High-C-Low-O-High,8,spontaneous,"['spontaneous', 'ad-lib', 'self-generated', 'unwritten']"
+E-High-N-High-A-High-C-Low-O-High,9,charming,"['sorcerous', 'charming', 'magical', 'magic']"
+E-High-N-High-A-High-C-Low-O-High,10,restless,"['ungratified', 'unsatisfied', 'restless']"
+E-Low-N-Low-A-Low-C-High-O-High,1,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-Low-A-Low-C-High-O-High,2,discerning,"['apprehensive', 'discerning', 'discreet']"
+E-Low-N-Low-A-Low-C-High-O-High,3,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-Low-N-Low-A-Low-C-High-O-High,4,perceptive,['perceptive']
+E-Low-N-Low-A-Low-C-High-O-High,5,independent,"['sovereign', 'independent', 'autonomous', 'self-governing']"
+E-Low-N-Low-A-Low-C-High-O-High,6,thoughtful,"['thoughtful', 'serious-minded', 'heedful']"
+E-Low-N-Low-A-Low-C-High-O-High,7,pragmatic,"['pragmatic', 'matter-of-fact', 'pragmatical']"
+E-Low-N-Low-A-Low-C-High-O-High,8,inquisitive,"['wondering', 'questioning', 'inquisitive', 'speculative']"
+E-Low-N-Low-A-Low-C-High-O-High,9,self-disciplined,"['self-restraining', 'self-disciplined']"
+E-Low-N-Low-A-Low-C-High-O-High,10,visionary,"['laputan', 'impractical', 'windy', 'visionary', 'airy']"
+E-High-N-High-A-High-C-High-O-High,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-High-A-High-C-High-O-High,2,dramatic,"['dramatic', 'spectacular', 'striking']"
+E-High-N-High-A-High-C-High-O-High,3,empathetic,"['empathic', 'empathetic']"
+E-High-N-High-A-High-C-High-O-High,4,adventurous,"['adventurous', 'adventuresome']"
+E-High-N-High-A-High-C-High-O-High,5,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-High-N-High-A-High-C-High-O-High,6,charismatic,"['magnetic', 'charismatic']"
+E-High-N-High-A-High-C-High-O-High,7,introspective,"['introspective', 'self-examining', 'introverted']"
+E-High-N-High-A-High-C-High-O-High,8,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-High-A-High-C-High-O-High,9,visionary,"['laputan', 'impractical', 'windy', 'visionary', 'airy']"
+E-High-N-High-A-High-C-High-O-High,10,passionate,['passionate']
+E-Low-N-Low-A-High-C-High-O-Low,1,reserved,['reserved']
+E-Low-N-Low-A-High-C-High-O-Low,2,cautious,"['conservative', 'cautious']"
+E-Low-N-Low-A-High-C-High-O-Low,3,emotionally,[]
+E-Low-N-Low-A-High-C-High-O-Low,4,even-tempered,"['good-tempered', 'placid', 'equable', 'even-tempered']"
+E-Low-N-Low-A-High-C-High-O-Low,5,cooperative,"['cooperative', 'conjunct', 'concerted', 'conjunctive']"
+E-Low-N-Low-A-High-C-High-O-Low,6,reliable,"['dependable', 'reliable', 'honest']"
+E-Low-N-Low-A-High-C-High-O-Low,7,traditional,['traditional']
+E-Low-N-Low-A-High-C-High-O-Low,8,conservative,"['button-down', 'conservative', 'cautious']"
+E-Low-N-Low-A-High-C-High-O-Low,9,kind-hearted,"['kind-hearted', 'kindhearted']"
+E-Low-N-Low-A-High-C-High-O-Low,10,methodical,['methodical']
+E-High-N-Low-A-High-C-High-O-High,1,vibrant,"['vivacious', 'vibrant']"
+E-High-N-Low-A-High-C-High-O-High,2,charismatic,"['magnetic', 'charismatic']"
+E-High-N-Low-A-High-C-High-O-High,3,empathetic,"['empathic', 'empathetic']"
+E-High-N-Low-A-High-C-High-O-High,4,confident,"['convinced', 'positive', 'confident']"
+E-High-N-Low-A-High-C-High-O-High,5,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-Low-A-High-C-High-O-High,6,inspirational,['inspirational']
+E-High-N-Low-A-High-C-High-O-High,7,thoughtful,"['thoughtful', 'serious-minded', 'heedful']"
+E-High-N-Low-A-High-C-High-O-High,8,adventurous,"['adventurous', 'adventuresome']"
+E-High-N-Low-A-High-C-High-O-High,9,optimistic,"['affirmative', 'optimistic']"
+E-High-N-Low-A-High-C-High-O-High,10,authentic,"['reliable', 'bona_fide', 'unquestionable', 'authentic']"
+E-High-N-Low-A-High-C-Low-O-High,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-Low-A-High-C-Low-O-High,2,empathetic,"['empathic', 'empathetic']"
+E-High-N-Low-A-High-C-Low-O-High,3,adventurous,"['adventurous', 'adventuresome']"
+E-High-N-Low-A-High-C-Low-O-High,4,charismatic,"['magnetic', 'charismatic']"
+E-High-N-Low-A-High-C-Low-O-High,5,optimistic,"['affirmative', 'optimistic']"
+E-High-N-Low-A-High-C-Low-O-High,6,spontaneous,"['spontaneous', 'ad-lib', 'self-generated', 'unwritten']"
+E-High-N-Low-A-High-C-Low-O-High,7,creative,"['originative', 'creative']"
+E-High-N-Low-A-High-C-Low-O-High,8,warm-hearted,[]
+E-High-N-Low-A-High-C-Low-O-High,9,enthusiastic,['enthusiastic']
+E-High-N-Low-A-High-C-Low-O-High,10,artistic,"['esthetic', 'artistic', 'aesthetic']"
+E-Low-N-High-A-Low-C-Low-O-Low,1,brooding,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-High-A-Low-C-Low-O-Low,2,restless,"['ungratified', 'unsatisfied', 'restless']"
+E-Low-N-High-A-Low-C-Low-O-Low,3,cynical,"['cynical', 'misanthropic', 'misanthropical']"
+E-Low-N-High-A-Low-C-Low-O-Low,4,rebellious,"['ill-affected', 'rebellious', 'disaffected', 'malcontent']"
+E-Low-N-High-A-Low-C-Low-O-Low,5,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-Low-N-High-A-Low-C-Low-O-Low,6,turmoil-ridden,[]
+E-Low-N-High-A-Low-C-Low-O-Low,7,disorderly,"['disorderly', 'hugger-mugger', 'jumbled', 'higgledy-piggledy']"
+E-Low-N-High-A-Low-C-Low-O-Low,8,unpredictable,"['irregular', 'unpredictable']"
+E-Low-N-High-A-Low-C-Low-O-Low,9,defiant,"['defiant', 'noncompliant']"
+E-Low-N-High-A-Low-C-Low-O-Low,10,turbulent,"['riotous', 'tumultuous', 'disruptive', 'turbulent', 'troubled']"
+E-High-N-Low-A-Low-C-Low-O-Low,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-Low-A-Low-C-Low-O-Low,2,charismatic,"['magnetic', 'charismatic']"
+E-High-N-Low-A-Low-C-Low-O-Low,3,fearless,"['brave', 'audacious', 'dauntless', 'unafraid', 'fearless']"
+E-High-N-Low-A-Low-C-Low-O-Low,4,confident,"['convinced', 'positive', 'confident']"
+E-High-N-Low-A-Low-C-Low-O-Low,5,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-Low-A-Low-C-Low-O-Low,6,enthusiastic,['enthusiastic']
+E-High-N-Low-A-Low-C-Low-O-Low,7,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-High-N-Low-A-Low-C-Low-O-Low,8,skeptical,"['unbelieving', 'doubting', 'disbelieving', 'sceptical', 'skeptical']"
+E-High-N-Low-A-Low-C-Low-O-Low,9,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-Low-A-Low-C-Low-O-Low,10,adventurous,"['adventurous', 'adventuresome']"
+E-Low-N-High-A-High-C-High-O-Low,1,reserved,['reserved']
+E-Low-N-High-A-High-C-High-O-Low,2,sensitive,"['sensible', 'sensitive']"
+E-Low-N-High-A-High-C-High-O-Low,3,cautious,"['conservative', 'cautious']"
+E-Low-N-High-A-High-C-High-O-Low,4,traditional,['traditional']
+E-Low-N-High-A-High-C-High-O-Low,5,perfectionistic,[]
+E-Low-N-High-A-High-C-High-O-Low,6,anxious,"['dying', 'queasy', 'nervous', 'anxious']"
+E-Low-N-High-A-High-C-High-O-Low,7,compassionate,['compassionate']
+E-Low-N-High-A-High-C-High-O-Low,8,prudent,['prudent']
+E-Low-N-High-A-High-C-High-O-Low,9,conservative,"['button-down', 'conservative', 'cautious']"
+E-Low-N-High-A-High-C-High-O-Low,10,self-controlled,[]
+E-Low-N-High-A-Low-C-High-O-High,1,introspective,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-High-A-Low-C-High-O-High,2,perfectionistic,[]
+E-Low-N-High-A-Low-C-High-O-High,3,analytical,"['analytical', 'analytic']"
+E-Low-N-High-A-Low-C-High-O-High,4,sensitive,"['sensible', 'sensitive']"
+E-Low-N-High-A-Low-C-High-O-High,5,disciplined,['disciplined']
+E-Low-N-High-A-Low-C-High-O-High,6,cerebral,"['intellectual', 'cerebral']"
+E-Low-N-High-A-Low-C-High-O-High,7,reserved,['reserved']
+E-Low-N-High-A-Low-C-High-O-High,8,ambitious,"['ambitious', 'challenging']"
+E-Low-N-High-A-Low-C-High-O-High,9,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-High-A-Low-C-High-O-High,10,inquisitive,"['wondering', 'questioning', 'inquisitive', 'speculative']"
+E-High-N-High-A-Low-C-High-O-Low,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-High-A-Low-C-High-O-Low,2,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-High-A-Low-C-High-O-Low,3,energetic,"['energetic', 'industrious', 'up-and-coming', 'gumptious']"
+E-High-N-High-A-Low-C-High-O-Low,4,assertive,"['self-assertive', 'assertive', 'self-asserting']"
+E-High-N-High-A-Low-C-High-O-Low,5,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-High-N-High-A-Low-C-High-O-Low,6,unpredictable,"['irregular', 'unpredictable']"
+E-High-N-High-A-Low-C-High-O-Low,7,reliable,"['dependable', 'reliable', 'honest']"
+E-High-N-High-A-Low-C-High-O-Low,8,traditional,['traditional']
+E-High-N-High-A-Low-C-High-O-Low,9,efficient,"['efficient', 'effective']"
+E-High-N-High-A-Low-C-High-O-Low,10,emotionally,[]
+E-Low-N-High-A-High-C-Low-O-Low,1,sensitivity,[]
+E-Low-N-High-A-High-C-Low-O-Low,2,vulnerable,['vulnerable']
+E-Low-N-High-A-High-C-Low-O-Low,3,sentimental,"['maudlin', 'bathetic', 'sentimental', 'drippy', 'hokey']"
+E-Low-N-High-A-High-C-Low-O-Low,4,reserved,['reserved']
+E-Low-N-High-A-High-C-Low-O-Low,5,cautious,"['conservative', 'cautious']"
+E-Low-N-High-A-High-C-Low-O-Low,6,melancholic,"['melancholic', 'melancholy']"
+E-Low-N-High-A-High-C-Low-O-Low,7,traditional,['traditional']
+E-Low-N-High-A-High-C-Low-O-Low,8,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-Low-N-High-A-High-C-Low-O-Low,9,indecisive,['indecisive']
+E-Low-N-High-A-High-C-Low-O-Low,10,sorrowful,['sorrowful']
+E-High-N-Low-A-Low-C-High-O-Low,1,confident,"['convinced', 'positive', 'confident']"
+E-High-N-Low-A-Low-C-High-O-Low,2,charismatic,"['magnetic', 'charismatic']"
+E-High-N-Low-A-Low-C-High-O-Low,3,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-Low-A-Low-C-High-O-Low,4,ambitious,"['ambitious', 'challenging']"
+E-High-N-Low-A-Low-C-High-O-Low,5,straightforward,"['square', 'aboveboard', 'straight', 'straightforward']"
+E-High-N-Low-A-Low-C-High-O-Low,6,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-High-N-Low-A-Low-C-High-O-Low,7,adventurous,"['adventurous', 'adventuresome']"
+E-High-N-Low-A-Low-C-High-O-Low,8,reliable,"['dependable', 'reliable', 'honest']"
+E-High-N-Low-A-Low-C-High-O-Low,9,efficient,"['efficient', 'effective']"
+E-High-N-Low-A-Low-C-High-O-Low,10,unapologetic,['unapologetic']
+E-High-N-Low-A-High-C-High-O-Low,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-Low-A-High-C-High-O-Low,2,compassionate,['compassionate']
+E-High-N-Low-A-High-C-High-O-Low,3,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-Low-A-High-C-High-O-Low,4,efficient,"['efficient', 'effective']"
+E-High-N-Low-A-High-C-High-O-Low,5,warm-hearted,[]
+E-High-N-Low-A-High-C-High-O-Low,6,determined,"['dictated', 'determined']"
+E-High-N-Low-A-High-C-High-O-Low,7,social,"['societal', 'social']"
+E-High-N-Low-A-High-C-High-O-Low,8,practical,"['practical', 'hardheaded', 'pragmatic', 'hard-nosed']"
+E-High-N-Low-A-High-C-High-O-Low,9,hardworking,"['tireless', 'hardworking', 'industrious', 'untiring']"
+E-High-N-Low-A-High-C-High-O-Low,10,authentic,"['reliable', 'bona_fide', 'unquestionable', 'authentic']"
+E-High-N-Low-A-Low-C-Low-O-High,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-Low-A-Low-C-Low-O-High,2,charismatic,"['magnetic', 'charismatic']"
+E-High-N-Low-A-Low-C-Low-O-High,3,fearless,"['brave', 'audacious', 'dauntless', 'unafraid', 'fearless']"
+E-High-N-Low-A-Low-C-Low-O-High,4,ebullient,"['ebullient', 'high-spirited', 'exuberant']"
+E-High-N-Low-A-Low-C-Low-O-High,5,sarcastic,['sarcastic']
+E-High-N-Low-A-Low-C-Low-O-High,6,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-Low-A-Low-C-Low-O-High,7,visionary,"['laputan', 'impractical', 'windy', 'visionary', 'airy']"
+E-High-N-Low-A-Low-C-Low-O-High,8,confident,"['convinced', 'positive', 'confident']"
+E-High-N-Low-A-Low-C-Low-O-High,9,artistic,"['esthetic', 'artistic', 'aesthetic']"
+E-High-N-Low-A-Low-C-Low-O-High,10,unconventional,"['unlawful', 'unconventional', 'improper']"
+E-High-N-High-A-High-C-High-O-Low,1,vibrant,"['vivacious', 'vibrant']"
+E-High-N-High-A-High-C-High-O-Low,2,emotionally,[]
+E-High-N-High-A-High-C-High-O-Low,3,warm-hearted,[]
+E-High-N-High-A-High-C-High-O-Low,4,high-strung,"['highly_strung', 'high-strung', 'jumpy', 'edgy', 'jittery']"
+E-High-N-High-A-High-C-High-O-Low,5,social,"['societal', 'social']"
+E-High-N-High-A-High-C-High-O-Low,6,perfectionistic,[]
+E-High-N-High-A-High-C-High-O-Low,7,conservative,"['button-down', 'conservative', 'cautious']"
+E-High-N-High-A-High-C-High-O-Low,8,lively,"['lively', 'racy', 'alert', 'brisk']"
+E-High-N-High-A-High-C-High-O-Low,9,responsible,"['responsible_for', 'responsible', 'creditworthy']"
+E-High-N-High-A-High-C-High-O-Low,10,passionate,['passionate']
+E-Low-N-Low-A-High-C-High-O-High,1,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-Low-A-High-C-High-O-High,2,composed,['composed']
+E-Low-N-Low-A-High-C-High-O-High,3,thoughtful,"['thoughtful', 'serious-minded', 'heedful']"
+E-Low-N-Low-A-High-C-High-O-High,4,disciplined,['disciplined']
+E-Low-N-Low-A-High-C-High-O-High,5,innovative,"['forward-looking', 'modern', 'advanced', 'innovative']"
+E-Low-N-Low-A-High-C-High-O-High,6,reserved,['reserved']
+E-Low-N-Low-A-High-C-High-O-High,7,cautious,"['conservative', 'cautious']"
+E-Low-N-Low-A-High-C-High-O-High,8,calm,"['calm', 'serene', 'tranquil', 'unagitated']"
+E-Low-N-Low-A-High-C-High-O-High,9,creative,"['originative', 'creative']"
+E-Low-N-Low-A-High-C-High-O-High,10,mature,"['matured', 'ripe', 'mature']"
+E-Low-N-Low-A-High-C-Low-O-Low,1,reserved,['reserved']
+E-Low-N-Low-A-High-C-Low-O-Low,2,cautious,"['conservative', 'cautious']"
+E-Low-N-Low-A-High-C-Low-O-Low,3,even-tempered,"['good-tempered', 'placid', 'equable', 'even-tempered']"
+E-Low-N-Low-A-High-C-Low-O-Low,4,warm,"['warm', 'affectionate', 'fond']"
+E-Low-N-Low-A-High-C-Low-O-Low,5,traditional,['traditional']
+E-Low-N-Low-A-High-C-Low-O-Low,6,conservative,"['button-down', 'conservative', 'cautious']"
+E-Low-N-Low-A-High-C-Low-O-Low,7,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-Low-N-Low-A-High-C-Low-O-Low,8,calm,"['calm', 'serene', 'tranquil', 'unagitated']"
+E-Low-N-Low-A-High-C-Low-O-Low,9,simple,"['uncomplicated', 'elementary', 'simple', 'unproblematic']"
+E-Low-N-Low-A-High-C-Low-O-Low,10,unassuming,"['retiring', 'unassuming']"
+E-Low-N-Low-A-Low-C-Low-O-Low,1,reserved,['reserved']
+E-Low-N-Low-A-Low-C-Low-O-Low,2,cautious,"['conservative', 'cautious']"
+E-Low-N-Low-A-Low-C-Low-O-Low,3,even-tempered,"['good-tempered', 'placid', 'equable', 'even-tempered']"
+E-Low-N-Low-A-Low-C-Low-O-Low,4,traditional,['traditional']
+E-Low-N-Low-A-Low-C-Low-O-Low,5,conservative,"['button-down', 'conservative', 'cautious']"
+E-Low-N-Low-A-Low-C-Low-O-Low,6,skeptical,"['unbelieving', 'doubting', 'disbelieving', 'sceptical', 'skeptical']"
+E-Low-N-Low-A-Low-C-Low-O-Low,7,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-Low-N-Low-A-Low-C-Low-O-Low,8,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-Low-N-Low-A-Low-C-Low-O-Low,9,independent,"['sovereign', 'independent', 'autonomous', 'self-governing']"
+E-Low-N-Low-A-Low-C-Low-O-Low,10,direct,"['unmediated', 'direct', 'lineal']"
+E-Low-N-High-A-Low-C-High-O-Low,1,reserved,['reserved']
+E-Low-N-High-A-Low-C-High-O-Low,2,brooding,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-High-A-Low-C-High-O-Low,3,cautious,"['conservative', 'cautious']"
+E-Low-N-High-A-Low-C-High-O-Low,4,perfectionistic,[]
+E-Low-N-High-A-Low-C-High-O-Low,5,skeptical,"['unbelieving', 'doubting', 'disbelieving', 'sceptical', 'skeptical']"
+E-Low-N-High-A-Low-C-High-O-Low,6,introverted,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-High-A-Low-C-High-O-Low,7,pragmatic,"['pragmatic', 'matter-of-fact', 'pragmatical']"
+E-Low-N-High-A-Low-C-High-O-Low,8,traditional,['traditional']
+E-Low-N-High-A-Low-C-High-O-Low,9,meticulous,"['meticulous', 'punctilious']"
+E-Low-N-High-A-Low-C-High-O-Low,10,introspective,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-Low-A-Low-C-High-O-Low,1,reserved,['reserved']
+E-Low-N-Low-A-Low-C-High-O-Low,2,cautious,"['conservative', 'cautious']"
+E-Low-N-Low-A-Low-C-High-O-Low,3,traditional,['traditional']
+E-Low-N-Low-A-Low-C-High-O-Low,4,conservative,"['button-down', 'conservative', 'cautious']"
+E-Low-N-Low-A-Low-C-High-O-Low,5,efficient,"['efficient', 'effective']"
+E-Low-N-Low-A-Low-C-High-O-Low,6,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-Low-N-Low-A-Low-C-High-O-Low,7,calm,"['calm', 'serene', 'tranquil', 'unagitated']"
+E-Low-N-Low-A-Low-C-High-O-Low,8,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-Low-N-Low-A-Low-C-High-O-Low,9,skeptical,"['unbelieving', 'doubting', 'disbelieving', 'sceptical', 'skeptical']"
+E-Low-N-Low-A-Low-C-High-O-Low,10,disciplined,['disciplined']
+E-Low-N-High-A-High-C-High-O-High,1,sensitive,"['sensible', 'sensitive']"
+E-Low-N-High-A-High-C-High-O-High,2,compassionate,['compassionate']
+E-Low-N-High-A-High-C-High-O-High,3,perfectionistic,[]
+E-Low-N-High-A-High-C-High-O-High,4,creative,"['originative', 'creative']"
+E-Low-N-High-A-High-C-High-O-High,5,introspective,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-High-A-High-C-High-O-High,6,deliberate,"['calculated', 'deliberate', 'measured', 'careful']"
+E-Low-N-High-A-High-C-High-O-High,7,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-High-A-High-C-High-O-High,8,empathetic,"['empathic', 'empathetic']"
+E-Low-N-High-A-High-C-High-O-High,9,disciplined,['disciplined']
+E-Low-N-High-A-High-C-High-O-High,10,inquisitive,"['wondering', 'questioning', 'inquisitive', 'speculative']"
+E-Low-N-Low-A-High-C-Low-O-High,1,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-Low-A-High-C-Low-O-High,2,compassionate,['compassionate']
+E-Low-N-Low-A-High-C-Low-O-High,3,imaginative,"['inventive', 'imaginative']"
+E-Low-N-Low-A-High-C-Low-O-High,4,wistful,"['wistful', 'pensive']"
+E-Low-N-Low-A-High-C-Low-O-High,5,enthusiastic,['enthusiastic']
+E-Low-N-Low-A-High-C-Low-O-High,6,sincere,"['earnest', 'sincere', 'solemn']"
+E-Low-N-Low-A-High-C-Low-O-High,7,perceptive,['perceptive']
+E-Low-N-Low-A-High-C-Low-O-High,8,dreamy,"['dreamy', 'woolgathering', 'lackadaisical', 'moony']"
+E-Low-N-Low-A-High-C-Low-O-High,9,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-Low-N-Low-A-High-C-Low-O-High,10,sentimental,"['maudlin', 'bathetic', 'sentimental', 'drippy', 'hokey']"
+E-Low-N-High-A-High-C-Low-O-High,1,sensitive,"['sensible', 'sensitive']"
+E-Low-N-High-A-High-C-Low-O-High,2,vulnerable,['vulnerable']
+E-Low-N-High-A-High-C-Low-O-High,3,compassionate,['compassionate']
+E-Low-N-High-A-High-C-Low-O-High,4,dreamy,"['dreamy', 'woolgathering', 'lackadaisical', 'moony']"
+E-Low-N-High-A-High-C-Low-O-High,5,introspective,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-High-A-High-C-Low-O-High,6,emotionally,[]
+E-Low-N-High-A-High-C-Low-O-High,7,creative,"['originative', 'creative']"
+E-Low-N-High-A-High-C-Low-O-High,8,indecisive,['indecisive']
+E-Low-N-High-A-High-C-Low-O-High,9,sentimental,"['maudlin', 'bathetic', 'sentimental', 'drippy', 'hokey']"
+E-Low-N-High-A-High-C-Low-O-High,10,enigmatic,"['oracular', 'enigmatical', 'puzzling', 'enigmatic']"
+E-High-N-High-A-Low-C-High-O-High,1,dynamic,"['dynamic', 'dynamical', 'active']"
+E-High-N-High-A-Low-C-High-O-High,2,intense,"['vivid', 'intense', 'acute']"
+E-High-N-High-A-Low-C-High-O-High,3,ambitious,"['ambitious', 'challenging']"
+E-High-N-High-A-Low-C-High-O-High,4,innovative,"['forward-looking', 'modern', 'advanced', 'innovative']"
+E-High-N-High-A-Low-C-High-O-High,5,dramatic,"['dramatic', 'spectacular', 'striking']"
+E-High-N-High-A-Low-C-High-O-High,6,pragmatic,"['pragmatic', 'matter-of-fact', 'pragmatical']"
+E-High-N-High-A-Low-C-High-O-High,7,eccentric,"['flaky', 'freaky', 'freakish', 'eccentric', 'bizarre']"
+E-High-N-High-A-Low-C-High-O-High,8,expressive,['expressive']
+E-High-N-High-A-Low-C-High-O-High,9,adventurous,"['adventurous', 'adventuresome']"
+E-High-N-High-A-Low-C-High-O-High,10,unpredictable,"['irregular', 'unpredictable']"
+E-High-N-High-A-High-C-Low-O-Low,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-High-A-High-C-Low-O-Low,2,emotionally,[]
+E-High-N-High-A-High-C-Low-O-Low,3,affable,"['cordial', 'amiable', 'genial', 'affable']"
+E-High-N-High-A-High-C-Low-O-Low,4,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-High-A-High-C-Low-O-Low,5,exuberant,"['excessive', 'ebullient', 'extravagant', 'high-spirited', 'exuberant']"
+E-High-N-High-A-High-C-Low-O-Low,6,adaptable,['adaptable']
+E-High-N-High-A-High-C-Low-O-Low,7,passionate,['passionate']
+E-High-N-High-A-High-C-Low-O-Low,8,reckless,"['foolhardy', 'rash', 'reckless', 'heedless', 'heady']"
+E-High-N-High-A-High-C-Low-O-Low,9,enthusiastic,['enthusiastic']
+E-High-N-High-A-High-C-Low-O-Low,10,dramatic,"['dramatic', 'spectacular', 'striking']"
+E-High-N-Low-A-Low-C-High-O-High,1,vivacious,"['vivacious', 'vibrant']"
+E-High-N-Low-A-Low-C-High-O-High,2,confident,"['convinced', 'positive', 'confident']"
+E-High-N-Low-A-Low-C-High-O-High,3,adventurous,"['adventurous', 'adventuresome']"
+E-High-N-Low-A-Low-C-High-O-High,4,resilient,"['live', 'lively', 'resilient', 'bouncy']"
+E-High-N-Low-A-Low-C-High-O-High,5,innovative,"['forward-looking', 'modern', 'advanced', 'innovative']"
+E-High-N-Low-A-Low-C-High-O-High,6,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-High-N-Low-A-Low-C-High-O-High,7,savvy,[]
+E-High-N-Low-A-Low-C-High-O-High,8,diligent,"['persevering', 'diligent']"
+E-High-N-Low-A-Low-C-High-O-High,9,visionary,"['laputan', 'impractical', 'windy', 'visionary', 'airy']"
+E-High-N-Low-A-Low-C-High-O-High,10,unconventional,"['unlawful', 'unconventional', 'improper']"
+E-Low-N-High-A-Low-C-Low-O-High,1,introverted,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-High-A-Low-C-Low-O-High,2,moody,"['dark', 'dour', 'glowering', 'moody', 'glum']"
+E-Low-N-High-A-Low-C-Low-O-High,3,rebellious,"['ill-affected', 'rebellious', 'disaffected', 'malcontent']"
+E-Low-N-High-A-Low-C-Low-O-High,4,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-Low-N-High-A-Low-C-Low-O-High,5,skeptical,"['unbelieving', 'doubting', 'disbelieving', 'sceptical', 'skeptical']"
+E-Low-N-High-A-Low-C-Low-O-High,6,emotionally,[]
+E-Low-N-High-A-Low-C-Low-O-High,7,creative,"['originative', 'creative']"
+E-Low-N-High-A-Low-C-Low-O-High,8,disorganized,"['disorganized', 'disorganised']"
+E-Low-N-High-A-Low-C-Low-O-High,9,introspective,"['introspective', 'self-examining', 'introverted']"
+E-Low-N-High-A-Low-C-Low-O-High,10,unconventional,"['unlawful', 'unconventional', 'improper']"
+E-High-N-High-A-Low-C-Low-O-Low,1,mercurial,"['fickle', 'quicksilver', 'mercurial', 'erratic']"
+E-High-N-High-A-Low-C-Low-O-Low,2,sociable,['sociable']
+E-High-N-High-A-Low-C-Low-O-Low,3,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-High-A-Low-C-Low-O-Low,4,eccentric,"['flaky', 'freaky', 'freakish', 'eccentric', 'bizarre']"
+E-High-N-High-A-Low-C-Low-O-Low,5,assertive,"['self-assertive', 'assertive', 'self-asserting']"
+E-High-N-High-A-Low-C-Low-O-Low,6,reckless,"['foolhardy', 'rash', 'reckless', 'heedless', 'heady']"
+E-High-N-High-A-Low-C-Low-O-Low,7,emotional,"['emotional', 'aroused']"
+E-High-N-High-A-Low-C-Low-O-Low,8,competitive,"['free-enterprise', 'private-enterprise', 'competitive', 'competitory']"
+E-High-N-High-A-Low-C-Low-O-Low,9,unpredictable,"['irregular', 'unpredictable']"
+E-High-N-High-A-Low-C-Low-O-Low,10,confrontational,['confrontational']
+E-High-N-High-A-Low-C-Low-O-High,1,mercurial,"['fickle', 'quicksilver', 'mercurial', 'erratic']"
+E-High-N-High-A-Low-C-Low-O-High,2,charismatic,"['magnetic', 'charismatic']"
+E-High-N-High-A-Low-C-Low-O-High,3,impulsive,"['unprompted', 'driving', 'impulsive']"
+E-High-N-High-A-Low-C-Low-O-High,4,eccentric,"['flaky', 'freaky', 'freakish', 'eccentric', 'bizarre']"
+E-High-N-High-A-Low-C-Low-O-High,5,restless,"['ungratified', 'unsatisfied', 'restless']"
+E-High-N-High-A-Low-C-Low-O-High,6,introspective,"['introspective', 'self-examining', 'introverted']"
+E-High-N-High-A-Low-C-Low-O-High,7,unpredictable,"['irregular', 'unpredictable']"
+E-High-N-High-A-Low-C-Low-O-High,8,innovative,"['forward-looking', 'modern', 'advanced', 'innovative']"
+E-High-N-High-A-Low-C-Low-O-High,9,emotionally,[]
+E-High-N-High-A-Low-C-Low-O-High,10,adventurous,"['adventurous', 'adventuresome']"
+E-Low-N-Low-A-Low-C-Low-O-High,1,enigmatic,"['oracular', 'enigmatical', 'puzzling', 'enigmatic']"
+E-Low-N-Low-A-Low-C-Low-O-High,2,cerebral,"['intellectual', 'cerebral']"
+E-Low-N-Low-A-Low-C-Low-O-High,3,skeptical,"['unbelieving', 'doubting', 'disbelieving', 'sceptical', 'skeptical']"
+E-Low-N-Low-A-Low-C-Low-O-High,4,creative,"['originative', 'creative']"
+E-Low-N-Low-A-Low-C-Low-O-High,5,moody,"['dark', 'dour', 'glowering', 'moody', 'glum']"
+E-Low-N-Low-A-Low-C-Low-O-High,6,independent,"['sovereign', 'independent', 'autonomous', 'self-governing']"
+E-Low-N-Low-A-Low-C-Low-O-High,7,imaginative,"['inventive', 'imaginative']"
+E-Low-N-Low-A-Low-C-Low-O-High,8,reflective,"['meditative', 'brooding', 'musing', 'broody', 'contemplative']"
+E-Low-N-Low-A-Low-C-Low-O-High,9,nonconformist,"['nonconforming', 'nonconformist', 'unconformist']"
+E-Low-N-Low-A-Low-C-Low-O-High,10,whimsical,"['whimsical', 'impulsive', 'capricious']"

@@ -1,0 +1,141 @@
+Label,Num,Adjectives,Synonyms
+N-High,1,arrogant,"['self-important', 'arrogant', 'chesty']"
+N-High,2,conceited,"['conceited', 'swollen', 'egotistical', 'egotistic', 'self-conceited']"
+N-High,3,haughty,"['imperious', 'haughty', 'lordly', 'disdainful', 'overbearing']"
+N-High,4,pompous,"['pontifical', 'overblown', 'grandiloquent', 'portentous', 'pompous']"
+N-High,5,egotistical,"['self-loving', 'conceited', 'narcissistic', 'egotistical', 'egotistic']"
+N-High,6,superior,"['superscript', 'superior']"
+N-High,7,grandiose,"['highfaluting', 'grandiose', 'highfalutin', 'hifalutin']"
+N-High,8,self-aggrandizing,"['self-aggrandizing', 'bragging', 'self-aggrandising', 'boastful', 'braggart']"
+N-High,9,overbearing,"['authoritarian', 'haughty', 'dictatorial', 'disdainful', 'overbearing']"
+N-High,10,self-absorbed,"['self-involved', 'self-absorbed']"
+M-High,1,machiavellian,['machiavellian']
+M-High,2,cunning,"['crafty', 'cute', 'dodgy', 'cunning']"
+M-High,3,calculating,"['calculating', 'shrewd', 'scheming', 'calculative', 'conniving']"
+M-High,4,ambitious,"['ambitious', 'challenging']"
+M-High,5,scheming,"['calculating', 'shrewd', 'scheming', 'calculative', 'conniving']"
+M-High,6,maneuvering,[]
+M-High,7,exploitative,"['exploitatory', 'exploitative', 'exploitive']"
+M-High,8,deceptive,"['deceptive', 'delusory', 'shoddy', 'misleading']"
+M-High,9,narcissistic,"['egotistical', 'egotistic', 'self-loving', 'narcissistic']"
+M-High,10,unscrupulous,['unscrupulous']
+P-Low,1,compassionate,['compassionate']
+P-Low,2,reflective,"['meditative', 'broody', 'contemplative', 'musing', 'brooding']"
+P-Low,3,emotionally,[]
+P-Low,4,considerate,['considerate']
+P-Low,5,introspective,"['introverted', 'introspective', 'self-examining']"
+P-Low,6,empathic,"['empathic', 'empathetic']"
+P-Low,7,cautious,"['conservative', 'cautious']"
+P-Low,8,altruistic,"['altruistic', 'selfless']"
+P-Low,9,sensitivity,[]
+P-Low,10,prudent,['prudent']
+M-Low,1,integrity-driven,[]
+M-Low,2,authentic,"['authentic', 'reliable', 'bona_fide', 'unquestionable']"
+M-Low,3,straightforward,"['straight', 'straightforward', 'aboveboard', 'square']"
+M-Low,4,transparent,"['crystal_clear', 'crystalline', 'lucid', 'limpid', 'pellucid']"
+M-Low,5,moral,['moral']
+M-Low,6,unwavering,"['steadfast', 'firm', 'steady', 'unbendable', 'stiff']"
+M-Low,7,trustworthy,"['trustworthy', 'trusty']"
+M-Low,8,sincere,"['solemn', 'earnest', 'sincere']"
+M-Low,9,ethical,"['ethical', 'honourable', 'honorable']"
+M-Low,10,principled,['principled']
+P-High,1,reckless,"['reckless', 'heady', 'rash', 'heedless', 'foolhardy']"
+P-High,2,daredevil,"['temerarious', 'daredevil']"
+P-High,3,unpredictable,"['unpredictable', 'irregular']"
+P-High,4,ruthless,"['ruthless', 'pitiless', 'remorseless', 'unpitying']"
+P-High,5,adventurous,"['adventurous', 'adventuresome']"
+P-High,6,unconventional,"['unlawful', 'improper', 'unconventional']"
+P-High,7,impetuous,"['impulsive', 'madcap', 'impetuous', 'hotheaded', 'tearaway']"
+P-High,8,maverick,"['maverick', 'unorthodox', 'irregular']"
+P-High,9,unfeeling,"['hardhearted', 'unfeeling', 'stonyhearted']"
+P-High,10,lawless,"['anarchical', 'anarchic', 'wide-open', 'lawless']"
+N-Low,1,unassuming,"['unassuming', 'retiring']"
+N-Low,2,modest,"['modest', 'small']"
+N-Low,3,unpretentious,"['unostentatious', 'understated', 'unpretending', 'unpretentious']"
+N-Low,4,low-key,"['low-keyed', 'subdued', 'low-key']"
+N-Low,5,self-effacing,"['reticent', 'self-effacing', 'retiring']"
+N-Low,6,unobtrusive,"['unobtrusive', 'unnoticeable']"
+N-Low,7,unassuming,"['unassuming', 'retiring']"
+N-Low,8,demure,"['overmodest', 'demure', 'coy']"
+N-Low,9,unostentatious,"['unostentatious', 'understated', 'unpretending', 'unpretentious']"
+N-Low,10,unassuming,"['unassuming', 'retiring']"
+M-Low-N-High-P-High,1,unapologetic,['unapologetic']
+M-Low-N-High-P-High,2,confident,"['confident', 'convinced', 'positive']"
+M-Low-N-High-P-High,3,blunt,"['blunt', 'candid', 'forthright']"
+M-Low-N-High-P-High,4,fearless,"['fearless', 'dauntless', 'brave', 'unafraid', 'audacious']"
+M-Low-N-High-P-High,5,self-absorbed,"['self-involved', 'self-absorbed']"
+M-Low-N-High-P-High,6,unconventional,"['unlawful', 'improper', 'unconventional']"
+M-Low-N-High-P-High,7,impulsive,"['impulsive', 'driving', 'unprompted']"
+M-Low-N-High-P-High,8,charismatic,"['charismatic', 'magnetic']"
+M-Low-N-High-P-High,9,emotionally,[]
+M-Low-N-High-P-High,10,unbridled,"['uncurbed', 'ungoverned', 'unbridled', 'unchecked']"
+M-High-N-High-P-Low,1,strategic,"['strategical', 'strategic']"
+M-High-N-High-P-Low,2,pragmatic,"['pragmatical', 'pragmatic', 'matter-of-fact']"
+M-High-N-High-P-Low,3,cunning,"['crafty', 'cute', 'dodgy', 'cunning']"
+M-High-N-High-P-Low,4,ambitious,"['ambitious', 'challenging']"
+M-High-N-High-P-Low,5,calculating,"['calculating', 'shrewd', 'scheming', 'calculative', 'conniving']"
+M-High-N-High-P-Low,6,confident,"['confident', 'convinced', 'positive']"
+M-High-N-High-P-Low,7,adaptable,['adaptable']
+M-High-N-High-P-Low,8,persuasive,['persuasive']
+M-High-N-High-P-Low,9,reflective,"['meditative', 'broody', 'contemplative', 'musing', 'brooding']"
+M-High-N-High-P-Low,10,strategic,"['strategical', 'strategic']"
+M-Low-N-High-P-Low,1,authentic,"['authentic', 'reliable', 'bona_fide', 'unquestionable']"
+M-Low-N-High-P-Low,2,self-assured,"['self-assured', 'self-confident']"
+M-Low-N-High-P-Low,3,empathetic,"['empathic', 'empathetic']"
+M-Low-N-High-P-Low,4,transparent,"['crystal_clear', 'crystalline', 'lucid', 'limpid', 'pellucid']"
+M-Low-N-High-P-Low,5,moral,['moral']
+M-Low-N-High-P-Low,6,compassionate,['compassionate']
+M-Low-N-High-P-Low,7,reflective,"['meditative', 'broody', 'contemplative', 'musing', 'brooding']"
+M-Low-N-High-P-Low,8,charismatic,"['charismatic', 'magnetic']"
+M-Low-N-High-P-Low,9,genuine,"['true', 'genuine', 'unfeigned', 'echt']"
+M-Low-N-High-P-Low,10,wise,"['wise', 'knowing', 'judicious', 'heady']"
+M-High-N-High-P-High,1,cunning,"['crafty', 'cute', 'dodgy', 'cunning']"
+M-High-N-High-P-High,2,deceptive,"['deceptive', 'delusory', 'shoddy', 'misleading']"
+M-High-N-High-P-High,3,ambitious,"['ambitious', 'challenging']"
+M-High-N-High-P-High,4,charismatic,"['charismatic', 'magnetic']"
+M-High-N-High-P-High,5,ruthless,"['ruthless', 'pitiless', 'remorseless', 'unpitying']"
+M-High-N-High-P-High,6,superficial,"['superficial', 'trivial']"
+M-High-N-High-P-High,7,impulsive,"['impulsive', 'driving', 'unprompted']"
+M-High-N-High-P-High,8,manipulative,['manipulative']
+M-High-N-High-P-High,9,entitled,['entitled']
+M-High-N-High-P-High,10,unpredictable,"['unpredictable', 'irregular']"
+M-High-N-Low-P-Low,1,strategic,"['strategical', 'strategic']"
+M-High-N-Low-P-Low,2,pragmatic,"['pragmatical', 'pragmatic', 'matter-of-fact']"
+M-High-N-Low-P-Low,3,tactful,"['tactful', 'kid-glove']"
+M-High-N-Low-P-Low,4,subtle,"['elusive', 'pernicious', 'subtle', 'insidious']"
+M-High-N-Low-P-Low,5,empathetic,"['empathic', 'empathetic']"
+M-High-N-Low-P-Low,6,reserved,['reserved']
+M-High-N-Low-P-Low,7,cautious,"['conservative', 'cautious']"
+M-High-N-Low-P-Low,8,resourceful,['resourceful']
+M-High-N-Low-P-Low,9,unassuming,"['unassuming', 'retiring']"
+M-High-N-Low-P-Low,10,diplomatic,"['diplomatical', 'diplomatic']"
+M-Low-N-Low-P-High,1,uncompromising,"['inflexible', 'sturdy', 'uncompromising']"
+M-Low-N-Low-P-High,2,direct,"['direct', 'unmediated', 'lineal']"
+M-Low-N-Low-P-High,3,impulsive,"['impulsive', 'driving', 'unprompted']"
+M-Low-N-Low-P-High,4,thrill-seeking,[]
+M-Low-N-Low-P-High,5,emotionally,[]
+M-Low-N-Low-P-High,6,non-conformist,[]
+M-Low-N-Low-P-High,7,authentic,"['authentic', 'reliable', 'bona_fide', 'unquestionable']"
+M-Low-N-Low-P-High,8,unassuming,"['unassuming', 'retiring']"
+M-Low-N-Low-P-High,9,risk-taker,[]
+M-Low-N-Low-P-High,10,pragmatic,"['pragmatical', 'pragmatic', 'matter-of-fact']"
+M-Low-N-Low-P-Low,1,unassuming,"['unassuming', 'retiring']"
+M-Low-N-Low-P-Low,2,compassionate,['compassionate']
+M-Low-N-Low-P-Low,3,humble,"['low', 'small', 'modest', 'humble', 'lowly']"
+M-Low-N-Low-P-Low,4,reliable,"['honest', 'reliable', 'dependable']"
+M-Low-N-Low-P-Low,5,authentic,"['authentic', 'reliable', 'bona_fide', 'unquestionable']"
+M-Low-N-Low-P-Low,6,empathetic,"['empathic', 'empathetic']"
+M-Low-N-Low-P-Low,7,principled,['principled']
+M-Low-N-Low-P-Low,8,cautious,"['conservative', 'cautious']"
+M-Low-N-Low-P-Low,9,selfless,"['altruistic', 'selfless']"
+M-Low-N-Low-P-Low,10,introspective,"['introverted', 'introspective', 'self-examining']"
+M-High-N-Low-P-High,1,cunning,"['crafty', 'cute', 'dodgy', 'cunning']"
+M-High-N-Low-P-High,2,pragmatic,"['pragmatical', 'pragmatic', 'matter-of-fact']"
+M-High-N-Low-P-High,3,unconventional,"['unlawful', 'improper', 'unconventional']"
+M-High-N-Low-P-High,4,enigmatic,"['oracular', 'enigmatical', 'puzzling', 'enigmatic']"
+M-High-N-Low-P-High,5,impulsive,"['impulsive', 'driving', 'unprompted']"
+M-High-N-Low-P-High,6,thrill-seeking,[]
+M-High-N-Low-P-High,7,detached,"['isolated', 'detached', 'uninvolved', 'degage']"
+M-High-N-Low-P-High,8,resourceful,['resourceful']
+M-High-N-Low-P-High,9,amoral,[]
+M-High-N-Low-P-High,10,mercurial,"['quicksilver', 'mercurial', 'fickle', 'erratic']"
