@@ -615,7 +615,6 @@ def main_run(client):
                 result_df.to_csv(result_file_name, index=False)
 
 
-
 if __name__ == '__main__':
     client = getQwenClient()
     main_run(client)
