@@ -841,16 +841,6 @@ def main_run(client):
 
 
 
-def getQwenClient():
-    openai_api_key = "qwen2.5-72b-instruct-8eeac2dad9cc4155af49b58c6bca953f"
-    openai_api_base = "https://its-tyk1.polyu.edu.hk:8080/llm/qwen2.5-72b-instruct"
-
-    client = OpenAI(
-        # defaults to os.environ.get("OPENAI_API_KEY")
-	api_key=openai_api_key,
-        base_url=openai_api_base,
-    )
-    return client
 if __name__ == '__main__':
     client = getQwenClient()
     main_run(client)
