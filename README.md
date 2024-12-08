@@ -1,12 +1,14 @@
 # Experiment_Codes
 
-Our method use wordnet, please first install wordnet.
+Our method use wordnet, please first install wordnet
+
 pip install nltk
 
 or this codes in python documents
->>> import nltk
->>> nltk.download('wordnet')
->>> from nltk.corpus import wordnet as wn
+
+import nltk
+nltk.download('wordnet')
+from nltk.corpus import wordnet as wn
 
 Documents directories are personality models, language models and method names.
 
