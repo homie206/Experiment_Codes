@@ -14,3 +14,7 @@ sd3: first use analysis_csv.py to get high or low of the results
 
 For methods used in dissertations
 
+16p: our_method_analysis_result.py 
+
+bfi44 and sd3: first use our_method_analysis.py to get high or low of the results
+       then use our_method_analysis_result.py for analysing multi-dimension result 
