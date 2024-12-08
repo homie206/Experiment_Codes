@@ -17,4 +17,4 @@ For methods used in dissertations
 16p: our_method_analysis_result.py 
 
 bfi44 and sd3: first use our_method_analysis.py to get high or low of the results
-       then use our_method_analysis_result.py for analysing multi-dimension result 
+       then use our_method_analysis_result.py for analysing multi-dimension result and our_method_analysis_result_single.py for single-dimension results
