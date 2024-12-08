@@ -62,7 +62,7 @@ def process_csv_files(folder_path):
 
 
 # 使用示例
-folder_path = '/home/hmsun/LLM-Questionaries-Personality/Llama/bfi44/Qwen2.5-3b-instruct/llm-gen'  # 替换为你的文件夹路径
+folder_path = '/home/hmsun/LLM-Questionaries-Personality/Llama/bfi44/Qwen2.5-3b-instruct/combine-new'  # 替换为你的文件夹路径
 results, overall_success_rate = process_csv_files(folder_path)
 
 # 输出结果

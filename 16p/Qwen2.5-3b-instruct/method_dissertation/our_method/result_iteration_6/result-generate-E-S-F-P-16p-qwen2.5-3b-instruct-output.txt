@@ -1,0 +1,242 @@
+In the current situation, here are more adjectives that describe your personality: Socially, Cooperative, Extroverted, Lively, Chatty, Outgoing, Flourishing, Beaming, Booming, Thriving. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You regularly make new friends
+response: 6
+results: [6]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Open-minded, Nimble-minded, Resourceful, Creative, Opportunistic, Detail-oriented, Experient, Chatty, Naturalistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You spend a lot of your free time exploring various random topics that pique your interest
+response: 6
+results: [6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathetic, Kind-hearted, Sympathetic, Irritable, Empathic, Compassionate, Extroverted, Kindhearted, Expressive. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Seeing other people cry can easily make you feel like you want to cry too
+response: 4
+results: [6, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Adaptable, Reliable, Dependable, Realistic, Optimistic, Risk-taker, Steady, Experient, Detail-oriented, Resourceful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often make a backup plan for a backup plan
+response: 6
+results: [6, 6, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Relaxed, Steady, Grounded, Flexible, Sympathetic, Irritable, Harmonious, Honest, Emotional, Optimistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually stay calm, even under a lot of pressure
+response: 6
+results: [6, 6, 4, 6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Extroverted, Talkative, Chatty, Open-minded, Outgoing, Opportunistic, Emotional, Experienced, Cooperative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: At social events, you rarely try to introduce yourself to new people and mostly talk to the ones you already know
+response: 3
+results: [6, 6, 4, 6, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Resourceful, Creative, Detail-oriented, Refulgent, Practical-minded, Nimble-minded, Open-minded, Opportunistic, Experient, Harmonious. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You prefer to completely finish one project before starting another
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Kind-hearted, Kindhearted, Compassionate, Creative, Beaming, Enthusiastic, Charitable, Benevolent, Honest. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are very sentimental
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Resourceful, Detail-oriented, Timeserving, Adaptable, Practical-minded, Opportunistic, Expressive, Cooperative, Experient, Energising. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like to use organizing tools like schedules and lists
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Empathic, Nimble-minded, Practical-minded, Loquacious, Irritable, Empathetic, Experient, Risk-taker, Extroverted, Experienced. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Even a small mistake can cause you to doubt your overall abilities and knowledge
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Talkative, Chatty, Relaxed, Kind-hearted, Outgoing, Kindhearted, Experienced, Open-minded, Practical-minded, Honest. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel comfortable just walking up to someone you find interesting and striking up a conversation
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Creative, Practical-minded, Nimble-minded, Expressive, Talkative, Naturalistic, Resourceful, Open-minded, Detail-oriented, Kind-hearted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are not too interested in discussing various interpretations and analyses of creative works
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Sympathetic, Practical-minded, Empathetic, Open-minded, Kind-hearted, Emotional, Nimble-minded, Benevolent, Empathic, Prudent. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are more inclined to follow your head than your heart
+response: 2
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2]
+
+In the current situation, here are more adjectives that describe your personality: Experienced, Relaxed, Practical-minded, Realistic, Brisk, Outgoing, Enthusiastic, Emotional, Optimistic, Aroused. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4]
+
+In the current situation, here are more adjectives that describe your personality: Irritable, Kind-hearted, Honest, Empathic, Experienced, Empathetic, Aroused, Kindhearted, Practical-minded, Socially. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely worry about whether you make a good impression on people you meet
+response: 5
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Cooperative, Enthusiastic, Experienced, Socially, Resourceful, Opportunistic, Thriving, Flourishing, Energetic, Relaxed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy participating in group activities
+response: 7
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Realistic, Originative, Expressive, Naturalistic, Refulgent, Vivacious, Open-minded, Extroverted, Harmonious. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like books and movies that make you come up with your own interpretation of the ending
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4]
+
+In the current situation, here are more adjectives that describe your personality: Flourishing, Prosperous, Prospering, Thriving, Emotional, Industrious, Charitable, Opportunistic, Optimistic, Beaming. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your happiness comes more from helping others accomplish things than your own accomplishments
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Creative, Resourceful, Nimble-minded, Open-minded, Risk-taker, Experienced, Prudent, Kind-hearted, Experient. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are interested in so many things that you find it difficult to choose what to try next
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Irritable, Risk-taker, Practical-minded, Dependable, Nimble-minded, Optimistic, Empathic, Emotional, Empathetic, Loquacious. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are prone to worrying that things will take a turn for the worse
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Cooperative, Socially, Opportunistic, Experient, Proportionate, Opportunist, Grounded, Resourceful, Nimble-minded, Kindhearted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You avoid leadership roles in group settings
+response: 2
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2]
+
+In the current situation, here are more adjectives that describe your personality: Naturalistic, Kind-hearted, Creative, Socially, Kindhearted, Extroverted, Realistic, Nimble-minded, Honest, Charismatic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are definitely not an artistic type of person
+response: 2
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Socially, Open-minded, Optimistic, Nimble-minded, Dependable, Harmonious, Kind-hearted, Prosperous, Prudent. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You think the world would be a better place if people relied more on rationality and less on their feelings
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4]
+
+In the current situation, here are more adjectives that describe your personality: Relaxed, Grounded, Practical-minded, Experienced, Dependable, Talkative, Flexible, Energizing, Honest, Energising. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You prefer to do your chores before allowing yourself to relax
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Kindhearted, Kind-hearted, Enthusiastic, Lively, Experienced, Emotional, Honest, Irritable, Socially, Open-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy watching people argue
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Aroused, Irritable, Extroverted, Expressive, Practical-minded, Emotional, Empathic, Realistic, Experienced, Nimble-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You tend to avoid drawing attention to yourself
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Irritable, Relaxed, Emotional, Enthusiastic, Energetic, Outgoing, Aroused, Beaming, Energizing, Optimistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your mood can change very quickly
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Irritable, Nimble-minded, Compassionate, Kind-hearted, Empathic, Prudent, Empathetic, Emotional, Kindhearted, Vivacious. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You lose patience with people who are not as efficient as you
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Experienced, Excitable, Extroverted, Emotional, Practical-minded, Up-and-coming, Experient, Vivacious, Irritable, Energizing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often end up doing things at the last possible moment
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Open-minded, Experienced, Naturalistic, Vivacious, Practical-minded, Up-and-coming, Nimble-minded, Flourishing, Emotional, Optimistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You have always been fascinated by the question of what, if anything, happens after death
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Open-minded, Practical-minded, Empathetic, Cooperative, Opportunistic, Extroverted, Experienced, Kind-hearted, Empathic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually prefer to be around others rather than on your own
+response: 7
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7]
+
+In the current situation, here are more adjectives that describe your personality: Talkative, Practical-minded, Nimble-minded, Naturalistic, Prudent, Open-minded, Chatty, Creative, Socially, Irritable. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You become bored or lose interest when the discussion gets highly theoretical
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3]
+
+In the current situation, here are more adjectives that describe your personality: Empathetic, Empathic, Experienced, Extroverted, Kind-hearted, Compassionate, Experient, Practical-minded, Naturalistic, Kindhearted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You find it easy to empathize with a person whose experiences are very different from yours
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Up-and-coming, Timeserving, Optimistic, Risk-taker, Practical-minded, Conjunctive, Opportunistic, Diplomatical, Grounded, Unfluctuating. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually postpone finalizing decisions for as long as possible
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Prudent, Honest, Practical-minded, Optimistic, Naturalistic, Affirmative, Risk-taker, Nimble-minded, Realistic, Experient. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely second-guess the choices that you have made
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Lively, Enthusiastic, Experienced, Flourishing, Emotional, Outgoing, Energetic, Resourceful, Kindhearted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: After a long and exhausting week, a lively social event is just what you need
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Creative, Charitable, Resourceful, Experienced, Refulgent, Thriving, Concerted, Vibrant, Flourishing, Enthusiastic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy going to art museums
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathetic, Empathic, Kind-hearted, Extroverted, Socially, Compassionate, Sympathetic, Irritable, Experienced. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often have a hard time understanding other people’s feelings
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Detail-oriented, Resourceful, Practical-minded, Timeserving, Talkative, Cooperative, Alert, Chatty, Opportunistic, Experienced. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like to have a to-do list for each day
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Empathetic, Honest, Empathic, Aroused, Emotional, Extroverted, Irritable, Realistic, Kind-hearted, Experient. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely feel insecure
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Chatty, Opportunistic, Flexile, Experient, Alert, Talkative, Socially, Flexible, Practical-minded, Unfluctuating. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You avoid making phone calls
+response: 2
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Empathetic, Open-minded, Nimble-minded, Experient, Naturalistic, Emotional, Kind-hearted, Experienced, Extroverted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often spend a lot of time trying to understand views that are very different from your own
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Chatty, Outgoing, Extroverted, Talkative, Cooperative, Opportunistic, Practical-minded, Experienced, Resourceful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: In your social circle, you are often the one who contacts your friends and initiates activities
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Up-and-coming, Experient, Risk-taker, Optimistic, Excitable, Brisk, Practical-minded, Outgoing, Prospering, Resourceful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: If your plans are interrupted, your top priority is to get back on track as soon as possible
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Irritable, Dependable, Prudent, Steady, Risk-taker, Nimble-minded, Kind-hearted, Honest, Kindhearted, Practical-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are still bothered by mistakes that you made a long time ago
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Naturalistic, Empathetic, Practical-minded, Open-minded, Empathic, Originative, Socially, Prudent, Emotional, Nimble-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely contemplate the reasons for human existence or the meaning of life
+response: 5
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathic, Sympathetic, Empathetic, Energetic, Energizing, Aroused, Relaxed, Irritable, Socially. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your emotions control you more than you control them
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4]
+
+In the current situation, here are more adjectives that describe your personality: Compassionate, Kind-hearted, Honest, Kindhearted, Benevolent, Dependable, Prudent, Empathic, Risk-taker, Practical-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You take great care not to make people look bad, even when it is completely their fault
+response: 2
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2]
+
+In the current situation, here are more adjectives that describe your personality: Energetic, Brisk, Experienced, Excitable, Outgoing, Practical-minded, Creative, Kinetic, Realistic, Flexile. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your personal work style is closer to spontaneous bursts of energy than organized and consistent efforts
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathetic, Irritable, Optimistic, Kind-hearted, Honest, Enthusiastic, Empathic, Experienced, Outgoing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: When someone thinks highly of you, you wonder how long it will take them to feel disappointed in you
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Dependable, Open-minded, Industrious, Nimble-minded, Resourceful, Experienced, Experient, Practical-minded, Realistic, Opportunistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You would love a job that requires you to work alone most of the time
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Nimble-minded, Open-minded, Naturalistic, Prudent, Loquacious, Talkative, Unfluctuating, Optimistic, Up-and-coming. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You believe that pondering abstract philosophical questions is a waste of time
+response: 5
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Emotional, Experienced, Lively, Prosperous, Vibrant, Kind-hearted, Empathetic, Talkative, Booming. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel more drawn to places with busy, bustling atmospheres than quiet, intimate places
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Experienced, Empathetic, Empathic, Kind-hearted, Realistic, Extroverted, Aroused, Open-minded, Sympathetic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You know at first glance how someone is feeling
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Irritable, Emotional, Energetic, Experienced, Empathetic, Extroverted, Kind-hearted, Empathic, Nimble-minded, Relaxed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often feel overwhelmed
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Detail-oriented, Brisk, Flexible, Excitable, Energizing, Refulgent, Experient, Prospering, Kinetic, Opportunistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You complete things methodically without skipping over any steps
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Creative, Practical-minded, Open-minded, Nimble-minded, Socially, Naturalistic, Forthcoming, Expressive, Detail-oriented, Kind-hearted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are very intrigued by things labeled as controversial
+response: 3
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6, 4, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Optimistic, Experienced, Nimble-minded, Open-minded, Creative, Risk-taker, Opportunistic, Experient, Charitable. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You would pass along a good opportunity if you thought someone else needed it more
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6, 4, 6, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Timeserving, Risk-taker, Resourceful, Practical-minded, Irritable, Experient, Nimble-minded, Prudent, Up-and-coming, Unfluctuating. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You struggle with deadlines
+response: 4
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6, 4, 6, 3, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Optimistic, Realistic, Practical-minded, Experienced, Prospering, Prudent, Relaxed, Honest, Enthusiastic, Thriving. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel confident that things will work out for you
+response: 6
+results: [6, 6, 4, 6, 6, 3, 3, 4, 3, 3, 6, 3, 2, 4, 5, 7, 4, 4, 4, 4, 2, 2, 4, 3, 4, 3, 6, 3, 6, 4, 7, 3, 6, 4, 4, 6, 3, 3, 4, 6, 2, 3, 6, 6, 3, 5, 4, 2, 6, 4, 3, 5, 6, 6, 4, 6, 3, 6, 4, 6]
+
+result: ('ISTP-A', 'Virtuoso', [7, 35, 72, 40, 51])
+

@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # 设置要分析的文件夹路径
-folder_path = '/home/hmsun/LLM-Questionaries-Personality/Llama/bfi44/Qwen2.5-3b-instruct/llm-gen'  # 替换为你的文件夹路径
+folder_path = '/home/hmsun/LLM-Questionaries-Personality/Llama/bfi44/Qwen2.5-3b-instruct/combine-new'  # 替换为你的文件夹路径
 
 # 定义阈值
 thresholds = {

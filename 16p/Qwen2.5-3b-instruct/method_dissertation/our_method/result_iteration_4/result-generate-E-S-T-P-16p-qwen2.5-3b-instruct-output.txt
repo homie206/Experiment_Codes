@@ -1,0 +1,242 @@
+In the current situation, here are more adjectives that describe your personality: Socially, Extroverted, Inviting, Chatty, Outgoing, Beaming, Talkative, Opportunistic, Playful, Vivacious. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You regularly make new friends
+response: 6
+results: [6]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Open-minded, Resourceful, Opportunistic, Inviting, Intellectual, Detail-oriented, Chatty, Playful, Objective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You spend a lot of your free time exploring various random topics that pique your interest
+response: 5
+results: [6, 5]
+
+In the current situation, here are more adjectives that describe your personality: Extroverted, Unhesitating, Beaming, Cold-eyed, Relaxed, Inviting, Energizing, Socially, Realistic, Radiant. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Seeing other people cry can easily make you feel like you want to cry too
+response: 2
+results: [6, 5, 2]
+
+In the current situation, here are more adjectives that describe your personality: Adaptative, Realistic, Quick, Detail-oriented, Resourceful, Efficient, Adaptive, Agile, Refulgent, Flexible. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often make a backup plan for a backup plan
+response: 6
+results: [6, 5, 2, 6]
+
+In the current situation, here are more adjectives that describe your personality: Relaxed, Disciplined, Grounded, Flexible, Resolute, Observant, Realistic, Mellow, Outgoing, Flexile. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually stay calm, even under a lot of pressure
+response: 5
+results: [6, 5, 2, 6, 5]
+
+In the current situation, here are more adjectives that describe your personality: Inviting, Socially, Extroverted, Talkative, Chatty, Open-minded, Outgoing, Opportunistic, Adaptive, Unconformist. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: At social events, you rarely try to introduce yourself to new people and mostly talk to the ones you already know
+response: 2
+results: [6, 5, 2, 6, 5, 2]
+
+In the current situation, here are more adjectives that describe your personality: Resourceful, Unhesitating, Effective, Detail-oriented, Refulgent, Practical-minded, Efficient, Open-minded, Nimble, Opportunistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You prefer to completely finish one project before starting another
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3]
+
+In the current situation, here are more adjectives that describe your personality: Beaming, Inviting, Charismatic, Resourceful, Laid-back, Vivacious, Radiant, Socially, Talkative, Extroverted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are very sentimental
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Agile, Resourceful, Detail-oriented, Timeserving, Dynamic, Adaptative, Active, Practical-minded, Opportunistic, Adaptive. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like to use organizing tools like schedules and lists
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5]
+
+In the current situation, here are more adjectives that describe your personality: Unhesitating, Matter-of-fact, Practical-minded, Loquacious, Intellectual, Dispassionate, Accusative, Logical, Mellow, Extroverted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Even a small mistake can cause you to doubt your overall abilities and knowledge
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3]
+
+In the current situation, here are more adjectives that describe your personality: Talkative, Chatty, Inviting, Relaxed, Outgoing, Open-minded, Practical-minded, Extroverted, Beaming, Naturalistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel comfortable just walking up to someone you find interesting and striking up a conversation
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Intellectual, Talkative, Naturalistic, Resourceful, Open-minded, Accusative, Detail-oriented, Unconformist, Pragmatic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are not too interested in discussing various interpretations and analyses of creative works
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Observant, Open-minded, Vivacious, Charismatic, Pragmatical, Unhesitating, Pragmatic, Disciplined, Naturalistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are more inclined to follow your head than your heart
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Relaxed, Practical-minded, Realistic, Unhesitating, Outgoing, Disciplined, Pragmatical, Pragmatic, Observant, Energizing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Socially, Open-minded, Inviting, Talkative, Vibrant, Observant, Mellow, Matter-of-fact, Observing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely worry about whether you make a good impression on people you meet
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Active, Inviting, Socially, Resourceful, Opportunistic, Playful, Relaxed, Disciplined, Energizing, Accusative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy participating in group activities
+response: 7
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7]
+
+In the current situation, here are more adjectives that describe your personality: Accusative, Realistic, Unhesitating, Law-abiding, Naturalistic, Refulgent, Vivacious, Open-minded, Extroverted, Laid-back. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like books and movies that make you come up with your own interpretation of the ending
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5]
+
+In the current situation, here are more adjectives that describe your personality: Opportunistic, Beaming, Vivacious, Socially, Practical-minded, Energizing, Resourceful, Strategic, Strategical, Effective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your happiness comes more from helping others accomplish things than your own accomplishments
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Resourceful, Open-minded, Objective, Observant, Quick, Intellectual, Opportunistic, Inviting, Unhesitating. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are interested in so many things that you find it difficult to choose what to try next
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Matter-of-fact, Dispassionate, Loquacious, Accusative, Unhesitating, Garrulous, Adaptative, Open-minded, Cold-eyed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are prone to worrying that things will take a turn for the worse
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Disciplined, Nonconformist, Unconformist, Accusative, Socially, Opportunistic, Down-to-business, Unhesitating, Dispassionate, Opportunist. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You avoid leadership roles in group settings
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Naturalistic, Unconformist, Intellectual, Nonconformist, Socially, Extroverted, Playful, Noetic, Realistic, Nonsubjective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are definitely not an artistic type of person
+response: 7
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Socially, Rational, Open-minded, Logical, Observant, Pragmatical, Pragmatic, Objective, Matter-of-fact. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You think the world would be a better place if people relied more on rationality and less on their feelings
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5]
+
+In the current situation, here are more adjectives that describe your personality: Relaxed, Laid-back, Grounded, Unhesitating, Accusative, Practical-minded, Down-to-business, Observant, Disciplined, Talkative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You prefer to do your chores before allowing yourself to relax
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3]
+
+In the current situation, here are more adjectives that describe your personality: Playful, Accusative, Inviting, Observing, Socially, Open-minded, Talkative, Disciplined, Relaxed, Law-abiding. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy watching people argue
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Unhesitating, Accusative, Dispassionate, Extroverted, Practical-minded, Disciplined, Realistic, Mellow, Observing, Objective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You tend to avoid drawing attention to yourself
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Relaxed, Mellow, Outgoing, Beaming, Energizing, Quick, Cold-eyed, Vivacious, Extroverted, Vibrant. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your mood can change very quickly
+response: 7
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7]
+
+In the current situation, here are more adjectives that describe your personality: Disciplined, Unhesitating, Accusative, Vivacious, Opportunistic, Socially, Resourceful, Practical-minded, Unconformist, Law-abiding. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You lose patience with people who are not as efficient as you
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5]
+
+In the current situation, here are more adjectives that describe your personality: Unhesitating, Extroverted, Practical-minded, Laid-back, Accusative, Vivacious, Energizing, Outgoing, Opportunistic, Down-to-business. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often end up doing things at the last possible moment
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6]
+
+In the current situation, here are more adjectives that describe your personality: Open-minded, Observing, Naturalistic, Vivacious, Practical-minded, Intellectual, Observant, Matter-of-fact, Inviting, Unhesitating. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You have always been fascinated by the question of what, if anything, happens after death
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Open-minded, Accusative, Inviting, Practical-minded, Disciplined, Opportunistic, Extroverted, Naturalistic, Observant. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually prefer to be around others rather than on your own
+response: 7
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7]
+
+In the current situation, here are more adjectives that describe your personality: Talkative, Practical-minded, Intellectual, Pragmatical, Pragmatic, Naturalistic, Open-minded, Chatty, Socially, Unconformist. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You become bored or lose interest when the discussion gets highly theoretical
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4]
+
+In the current situation, here are more adjectives that describe your personality: Extroverted, Practical-minded, Observant, Naturalistic, Open-minded, Accusative, Unhesitating, Resourceful, Adaptative, Unconformist. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You find it easy to empathize with a person whose experiences are very different from yours
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Unhesitating, Dispassionate, Timeserving, Down-to-business, Nonconforming, Practical-minded, Opportunistic, Grounded, Pragmatic, Disciplined. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually postpone finalizing decisions for as long as possible
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Logical, Unconformist, Practical-minded, Pragmatic, Naturalistic, Pragmatical, Rational, Realistic, Adaptative, Down-to-business. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely second-guess the choices that you have made
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Inviting, Socially, Outgoing, Resourceful, Disciplined, Talkative, Playful, Vivacious, Beaming, Chatty. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: After a long and exhausting week, a lively social event is just what you need
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6]
+
+In the current situation, here are more adjectives that describe your personality: Inviting, Resourceful, Observing, Refulgent, Intellectual, Vibrant, Naturalistic, Objective, Radiant, Beamy. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy going to art museums
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Extroverted, Socially, Practical-minded, Open-minded, Unhesitating, Matter-of-fact, Unconformist, Accusative, Talkative, Opportunistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often have a hard time understanding other people’s feelings
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Detail-oriented, Resourceful, Quick, Practical-minded, Timeserving, Talkative, Active, Inviting, Chatty, Opportunistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like to have a to-do list for each day
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Extroverted, Unhesitating, Unconformist, Realistic, Mellow, Relaxed, Open-minded, Outgoing, Flexible, Observant. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely feel insecure
+response: 7
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7]
+
+In the current situation, here are more adjectives that describe your personality: Unhesitating, Nonsubjective, Chatty, Opportunistic, Down-to-business, Dispassionate, Nonconformist, Nonconforming, Flexile, Noetic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You avoid making phone calls
+response: 2
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Open-minded, Unconformist, Objective, Unhesitating, Accusative, Adaptative, Naturalistic, Observing, Observant. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often spend a lot of time trying to understand views that are very different from your own
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Chatty, Outgoing, Extroverted, Talkative, Opportunistic, Inviting, Practical-minded, Disciplined, Active. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: In your social circle, you are often the one who contacts your friends and initiates activities
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Quick, Effective, Strategic, Active, Adaptive, Down-to-business, Practical-minded, Efficient, Strategical, Outgoing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: If your plans are interrupted, your top priority is to get back on track as soon as possible
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Laid-back, Disciplined, Pragmatical, Pragmatic, Unhesitating, Practical-minded, Vivacious, Timeserving, Accusative, Relaxed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are still bothered by mistakes that you made a long time ago
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Naturalistic, Matter-of-fact, Unconformist, Practical-minded, Pragmatical, Rational, Open-minded, Pragmatic, Intellectual, Nonconformist. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely contemplate the reasons for human existence or the meaning of life
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Energizing, Relaxed, Disciplined, Unhesitating, Socially, Adaptive, Accusative, Extroverted, Flexile, Energising. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your emotions control you more than you control them
+response: 2
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2]
+
+In the current situation, here are more adjectives that describe your personality: Accusative, Effective, Disciplined, Observant, Pragmatic, Unhesitating, Pragmatical, Practical-minded, Socially, Efficient. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You take great care not to make people look bad, even when it is completely their fault
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3]
+
+In the current situation, here are more adjectives that describe your personality: Outgoing, Practical-minded, Kinetic, Realistic, Flexile, Quick, Energizing, Active, Vivacious, Talkative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your personal work style is closer to spontaneous bursts of energy than organized and consistent efforts
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Mellow, Outgoing, Extroverted, Cold-eyed, Unhesitating, Opportunistic, Realistic, Vivacious, Practical-minded, Relaxed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: When someone thinks highly of you, you wonder how long it will take them to feel disappointed in you
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Open-minded, Resourceful, Down-to-business, Practical-minded, Realistic, Opportunistic, Agile, Outgoing, Unconformist, Flexible. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You would love a job that requires you to work alone most of the time
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Unconformist, Open-minded, Naturalistic, Rational, Intellectual, Pragmatical, Matter-of-fact, Pragmatic, Nonconformist. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You believe that pondering abstract philosophical questions is a waste of time
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Inviting, Socially, Vibrant, Talkative, Vivacious, Chatty, Open-minded, Down-to-business, Laid-back, Relaxed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel more drawn to places with busy, bustling atmospheres than quiet, intimate places
+response: 6
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Observing, Cold-eyed, Realistic, Extroverted, Open-minded, Practical-minded, Observant, Naturalistic, Relaxed, Socially. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You know at first glance how someone is feeling
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Extroverted, Unhesitating, Dispassionate, Relaxed, Accusative, Loquacious, Matter-of-fact, Vivacious, Opportunistic, Energizing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often feel overwhelmed
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Unhesitating, Quick, Efficient, Detail-oriented, Nonconforming, Nonsubjective, Flexible, Effective, Dispassionate, Energizing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You complete things methodically without skipping over any steps
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Intellectual, Practical-minded, Open-minded, Socially, Strategical, Naturalistic, Forthcoming, Accusative, Strategic, Playful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are very intrigued by things labeled as controversial
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3, 4, 5, 4]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Inviting, Accusative, Open-minded, Effective, Opportunistic, Resourceful, Logical, Observant, Vivacious. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You would pass along a good opportunity if you thought someone else needed it more
+response: 3
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3, 4, 5, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Timeserving, Resourceful, Practical-minded, Unhesitating, Objective, Dispassionate, Quick, Accusative, Opportunistic, Agile. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You struggle with deadlines
+response: 4
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3, 4, 5, 4, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Realistic, Practical-minded, Effective, Relaxed, Observant, Efficient, Outgoing, Pragmatical, Pragmatic, Mellow. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel confident that things will work out for you
+response: 5
+results: [6, 5, 2, 6, 5, 2, 3, 3, 5, 3, 6, 4, 5, 3, 6, 7, 5, 3, 4, 3, 3, 7, 5, 3, 4, 4, 7, 5, 6, 3, 7, 4, 3, 4, 5, 6, 3, 3, 6, 7, 2, 3, 6, 6, 4, 6, 2, 3, 6, 6, 3, 4, 6, 3, 4, 5, 4, 3, 4, 5]
+
+result: ('ISFP-A', 'Adventurer', [8, 45, 47, 35, 51])
+

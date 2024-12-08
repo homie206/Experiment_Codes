@@ -1,0 +1,241 @@
+Label,Num,Adjectives,Synonyms
+T,1,analytical,"['analytic', 'analytical']"
+T,2,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+T,3,detached,"['uninvolved', 'degage', 'isolated', 'detached']"
+T,4,rational,"['intellectual', 'rational', 'noetic']"
+T,5,objective,"['objective', 'accusative', 'nonsubjective']"
+T,6,methodical,['methodical']
+T,7,cerebral,"['intellectual', 'cerebral']"
+T,8,dispassionate,"['dispassionate', 'cold-eyed']"
+T,9,logical,"['consistent', 'coherent', 'logical', 'legitimate']"
+T,10,unemotional,"['unemotional', 'restrained', 'reticent']"
+J,1,methodical,['methodical']
+J,2,discerning,"['discerning', 'discreet', 'apprehensive']"
+J,3,perfectionistic,[]
+J,4,analytical,"['analytic', 'analytical']"
+J,5,systematic,"['taxonomic', 'systematic', 'taxonomical']"
+J,6,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+J,7,rigorous,"['tight', 'rigorous', 'stringent', 'strict']"
+J,8,meticulous,"['meticulous', 'punctilious']"
+J,9,precise,"['precise', 'exact', 'accurate']"
+J,10,fastidious,"['exacting', 'fastidious']"
+S,1,perceptive,['perceptive']
+S,2,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+S,3,observant,"['observing', 'observant', 'law-abiding']"
+S,4,methodical,['methodical']
+S,5,grounded,[]
+S,6,discerning,"['discerning', 'discreet', 'apprehensive']"
+S,7,cautious,"['cautious', 'conservative']"
+S,8,detail-oriented,[]
+S,9,practical-minded,[]
+S,10,realistic,"['naturalistic', 'realistic']"
+E,1,outgoing,"['outgoing', 'forthcoming', 'extroverted']"
+E,2,vivacious,"['vibrant', 'vivacious']"
+E,3,charismatic,"['magnetic', 'charismatic']"
+E,4,sociable,['sociable']
+E,5,energetic,"['up-and-coming', 'energetic', 'industrious', 'gumptious']"
+E,6,dramatic,"['striking', 'dramatic', 'spectacular']"
+E,7,spontaneous,"['ad-lib', 'spontaneous', 'self-generated', 'unwritten']"
+E,8,affable,"['cordial', 'affable', 'amiable', 'genial']"
+E,9,exuberant,"['ebullient', 'high-spirited', 'exuberant', 'extravagant', 'excessive']"
+E,10,vibrant,"['vibrant', 'vivacious']"
+F,1,emotionally,[]
+F,2,compassionate,['compassionate']
+F,3,empathic,"['empathetic', 'empathic']"
+F,4,soulful,['soulful']
+F,5,harmonious,"['symmetrical', 'harmonious', 'proportionate']"
+F,6,introspective,"['introspective', 'introverted', 'self-examining']"
+F,7,nurturing,[]
+F,8,authentic,"['unquestionable', 'authentic', 'reliable', 'bona_fide']"
+F,9,vulnerable,['vulnerable']
+F,10,heartfelt,"['devout', 'earnest', 'dear', 'heartfelt']"
+N,1,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+N,2,innovative,"['modern', 'forward-looking', 'innovative', 'advanced']"
+N,3,enigmatic,"['oracular', 'enigmatical', 'enigmatic', 'puzzling']"
+N,4,imaginative,"['inventive', 'imaginative']"
+N,5,free-spirited,[]
+N,6,perceptive,['perceptive']
+N,7,dreamy,"['moony', 'woolgathering', 'dreamy', 'lackadaisical']"
+N,8,eccentric,"['bizarre', 'flaky', 'eccentric', 'freakish', 'freaky']"
+N,9,philosophical,"['philosophical', 'philosophic']"
+N,10,speculative,"['high-risk', 'risky', 'bad', 'notional', 'speculative']"
+P,1,adaptable,['adaptable']
+P,2,spontaneous,"['ad-lib', 'spontaneous', 'self-generated', 'unwritten']"
+P,3,resourceful,['resourceful']
+P,4,innovative,"['modern', 'forward-looking', 'innovative', 'advanced']"
+P,5,flexible,"['flexile', 'elastic', 'flexible']"
+P,6,relaxed,['relaxed']
+P,7,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+P,8,free-spirited,[]
+P,9,intuitive,"['nonrational', 'intuitive', 'visceral']"
+P,10,agile,"['spry', 'quick', 'nimble', 'agile']"
+I,1,reserved,['reserved']
+I,2,introverted,"['introspective', 'introverted', 'self-examining']"
+I,3,sensitive,"['sensitive', 'sensible']"
+I,4,reflective,"['broody', 'brooding', 'meditative', 'contemplative', 'musing']"
+I,5,solitary,"['nonsocial', 'lone', 'lonely', 'solitary', 'nongregarious']"
+I,6,delicate,"['frail', 'delicate', 'fragile']"
+I,7,muted,"['hushed', 'muted', 'subdued', 'dull', 'quiet']"
+I,8,introjective,[]
+I,9,withdrawn,"['recluse', 'reclusive', 'indrawn', 'withdrawn']"
+I,10,perceptive,['perceptive']
+INFP,1,dreamy,"['moony', 'woolgathering', 'dreamy', 'lackadaisical']"
+INFP,2,soulful,['soulful']
+INFP,3,enigmatic,"['oracular', 'enigmatical', 'enigmatic', 'puzzling']"
+INFP,4,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+INFP,5,artistic,"['artistic', 'esthetic', 'aesthetic']"
+INFP,6,free-spirited,[]
+INFP,7,empathic,"['empathetic', 'empathic']"
+INFP,8,whimsical,"['whimsical', 'impulsive', 'capricious']"
+INFP,9,introspective,"['introspective', 'introverted', 'self-examining']"
+INFP,10,altruistic,"['altruistic', 'selfless']"
+ISFJ,1,reserved,['reserved']
+ISFJ,2,perceptive,['perceptive']
+ISFJ,3,sentimental,"['drippy', 'maudlin', 'bathetic', 'sentimental', 'hokey']"
+ISFJ,4,methodical,['methodical']
+ISFJ,5,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ISFJ,6,compassionate,['compassionate']
+ISFJ,7,deliberate,"['measured', 'deliberate', 'careful', 'calculated']"
+ISFJ,8,conservative,"['cautious', 'button-down', 'conservative']"
+ISFJ,9,sincere,"['solemn', 'earnest', 'sincere']"
+ISFJ,10,discerning,"['discerning', 'discreet', 'apprehensive']"
+INTJ,1,enigmatic,"['oracular', 'enigmatical', 'enigmatic', 'puzzling']"
+INTJ,2,perceptive,['perceptive']
+INTJ,3,analytical,"['analytic', 'analytical']"
+INTJ,4,discerning,"['discerning', 'discreet', 'apprehensive']"
+INTJ,5,innovative,"['modern', 'forward-looking', 'innovative', 'advanced']"
+INTJ,6,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+INTJ,7,independent,"['sovereign', 'autonomous', 'independent', 'self-governing']"
+INTJ,8,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+INTJ,9,methodical,['methodical']
+INTJ,10,reserved,['reserved']
+INFJ,1,enigmatic,"['oracular', 'enigmatical', 'enigmatic', 'puzzling']"
+INFJ,2,imaginative,"['inventive', 'imaginative']"
+INFJ,3,sensitive,"['sensitive', 'sensible']"
+INFJ,4,perceptive,['perceptive']
+INFJ,5,emotionally,[]
+INFJ,6,introspective,"['introspective', 'introverted', 'self-examining']"
+INFJ,7,idealistic,"['sublime', 'ideal', 'elevated', 'exalted', 'idealistic']"
+INFJ,8,discerning,"['discerning', 'discreet', 'apprehensive']"
+INFJ,9,compassionate,['compassionate']
+INFJ,10,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+ESTP,1,adventurous,"['adventurous', 'adventuresome']"
+ESTP,2,spontaneous,"['ad-lib', 'spontaneous', 'self-generated', 'unwritten']"
+ESTP,3,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ESTP,4,enthusiastic,['enthusiastic']
+ESTP,5,observant,"['observing', 'observant', 'law-abiding']"
+ESTP,6,resourceful,['resourceful']
+ESTP,7,competitive,"['free-enterprise', 'competitory', 'private-enterprise', 'competitive']"
+ESTP,8,sarcastic,['sarcastic']
+ESTP,9,independent,"['sovereign', 'autonomous', 'independent', 'self-governing']"
+ESTP,10,unpredictable,"['unpredictable', 'irregular']"
+INTP,1,enigmatic,"['oracular', 'enigmatical', 'enigmatic', 'puzzling']"
+INTP,2,innovative,"['modern', 'forward-looking', 'innovative', 'advanced']"
+INTP,3,perceptive,['perceptive']
+INTP,4,independent,"['sovereign', 'autonomous', 'independent', 'self-governing']"
+INTP,5,rational,"['intellectual', 'rational', 'noetic']"
+INTP,6,adaptable,['adaptable']
+INTP,7,insightful,['insightful']
+INTP,8,analytical,"['analytic', 'analytical']"
+INTP,9,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+INTP,10,unconventional,"['improper', 'unconventional', 'unlawful']"
+ISTP,1,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ISTP,2,introverted,"['introspective', 'introverted', 'self-examining']"
+ISTP,3,observant,"['observing', 'observant', 'law-abiding']"
+ISTP,4,logical,"['consistent', 'coherent', 'logical', 'legitimate']"
+ISTP,5,independent,"['sovereign', 'autonomous', 'independent', 'self-governing']"
+ISTP,6,flexible,"['flexile', 'elastic', 'flexible']"
+ISTP,7,practical,"['practical', 'hardheaded', 'pragmatic', 'hard-nosed']"
+ISTP,8,sensible,"['reasonable', 'sensitive', 'sensible']"
+ISTP,9,reserved,['reserved']
+ISTP,10,resourceful,['resourceful']
+ENTP,1,vivacious,"['vibrant', 'vivacious']"
+ENTP,2,innovative,"['modern', 'forward-looking', 'innovative', 'advanced']"
+ENTP,3,enthusiastic,['enthusiastic']
+ENTP,4,adventurous,"['adventurous', 'adventuresome']"
+ENTP,5,objective,"['objective', 'accusative', 'nonsubjective']"
+ENTP,6,quick-witted,['quick-witted']
+ENTP,7,independent,"['sovereign', 'autonomous', 'independent', 'self-governing']"
+ENTP,8,unconventional,"['improper', 'unconventional', 'unlawful']"
+ENTP,9,energetic,"['up-and-coming', 'energetic', 'industrious', 'gumptious']"
+ENTP,10,free-spirited,[]
+ESFJ,1,outgoing,"['outgoing', 'forthcoming', 'extroverted']"
+ESFJ,2,attuned,[]
+ESFJ,3,sentimental,"['drippy', 'maudlin', 'bathetic', 'sentimental', 'hokey']"
+ESFJ,4,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ESFJ,5,enthusiastic,['enthusiastic']
+ESFJ,6,empathetic,"['empathetic', 'empathic']"
+ESFJ,7,decisive,"['decisive', 'critical']"
+ESFJ,8,methodical,['methodical']
+ESFJ,9,social,"['social', 'societal']"
+ESFJ,10,conciliatory,"['conciliatory', 'flexible', 'compromising', 'conciliative']"
+ESFP,1,vibrant,"['vibrant', 'vivacious']"
+ESFP,2,spontaneous,"['ad-lib', 'spontaneous', 'self-generated', 'unwritten']"
+ESFP,3,charismatic,"['magnetic', 'charismatic']"
+ESFP,4,empathetic,"['empathetic', 'empathic']"
+ESFP,5,adaptable,['adaptable']
+ESFP,6,playful,['playful']
+ESFP,7,authentic,"['unquestionable', 'authentic', 'reliable', 'bona_fide']"
+ESFP,8,observant,"['observing', 'observant', 'law-abiding']"
+ESFP,9,expressive,['expressive']
+ESFP,10,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ESTJ,1,direct,"['direct', 'lineal', 'unmediated']"
+ESTJ,2,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ESTJ,3,decisive,"['decisive', 'critical']"
+ESTJ,4,organized,"['organized', 'organised', 'unionized']"
+ESTJ,5,results-driven,[]
+ESTJ,6,straightforward,"['square', 'aboveboard', 'straight', 'straightforward']"
+ESTJ,7,methodical,['methodical']
+ESTJ,8,efficient,"['effective', 'efficient']"
+ESTJ,9,objective,"['objective', 'accusative', 'nonsubjective']"
+ESTJ,10,action-oriented,[]
+ENFJ,1,charismatic,"['magnetic', 'charismatic']"
+ENFJ,2,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+ENFJ,3,empathetic,"['empathetic', 'empathic']"
+ENFJ,4,dynamic,"['active', 'dynamical', 'dynamic']"
+ENFJ,5,strategic,"['strategical', 'strategic']"
+ENFJ,6,expressive,['expressive']
+ENFJ,7,adventurous,"['adventurous', 'adventuresome']"
+ENFJ,8,passionate,['passionate']
+ENFJ,9,diplomatic,"['diplomatical', 'diplomatic']"
+ENFJ,10,authentic,"['unquestionable', 'authentic', 'reliable', 'bona_fide']"
+ENTJ,1,ambitious,"['challenging', 'ambitious']"
+ENTJ,2,charismatic,"['magnetic', 'charismatic']"
+ENTJ,3,visionary,"['impractical', 'airy', 'windy', 'laputan', 'visionary']"
+ENTJ,4,strategic,"['strategical', 'strategic']"
+ENTJ,5,confident,"['positive', 'convinced', 'confident']"
+ENTJ,6,results-driven,[]
+ENTJ,7,innovative,"['modern', 'forward-looking', 'innovative', 'advanced']"
+ENTJ,8,decisive,"['decisive', 'critical']"
+ENTJ,9,analytical,"['analytic', 'analytical']"
+ENTJ,10,dominant,"['dominant', 'prevailing', 'prevalent', 'predominant']"
+ISTJ,1,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ISTJ,2,methodical,['methodical']
+ISTJ,3,reserved,['reserved']
+ISTJ,4,logical,"['consistent', 'coherent', 'logical', 'legitimate']"
+ISTJ,5,disciplined,['disciplined']
+ISTJ,6,no-nonsense,['no-nonsense']
+ISTJ,7,perceptive,['perceptive']
+ISTJ,8,decisive,"['decisive', 'critical']"
+ISTJ,9,rigorous,"['tight', 'rigorous', 'stringent', 'strict']"
+ISTJ,10,unassuming,"['retiring', 'unassuming']"
+ENFP,1,vibrant,"['vibrant', 'vivacious']"
+ENFP,2,imaginative,"['inventive', 'imaginative']"
+ENFP,3,spontaneous,"['ad-lib', 'spontaneous', 'self-generated', 'unwritten']"
+ENFP,4,enthusiastic,['enthusiastic']
+ENFP,5,sincere,"['solemn', 'earnest', 'sincere']"
+ENFP,6,adventurous,"['adventurous', 'adventuresome']"
+ENFP,7,empathetic,"['empathetic', 'empathic']"
+ENFP,8,free-spirited,[]
+ENFP,9,inspiring,['inspiring']
+ENFP,10,passionate,['passionate']
+ISFP,1,delicate,"['frail', 'delicate', 'fragile']"
+ISFP,2,pragmatic,"['matter-of-fact', 'pragmatical', 'pragmatic']"
+ISFP,3,empathetic,"['empathetic', 'empathic']"
+ISFP,4,spontaneous,"['ad-lib', 'spontaneous', 'self-generated', 'unwritten']"
+ISFP,5,sensory,"['centripetal', 'sensorial', 'sensory', 'receptive']"
+ISFP,6,authentic,"['unquestionable', 'authentic', 'reliable', 'bona_fide']"
+ISFP,7,flexible,"['flexile', 'elastic', 'flexible']"
+ISFP,8,creative,"['originative', 'creative']"
+ISFP,9,introspective,"['introspective', 'introverted', 'self-examining']"
+ISFP,10,gentle,"['soft', 'gentle', 'aristocratic']"

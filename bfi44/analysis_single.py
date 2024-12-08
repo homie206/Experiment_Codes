@@ -1,4 +1,4 @@
-directory_path = '/home/hmsun/LLM-Questionaries-Personality/Llama/bfi44/Llama3.1-8b-instruct/vanilla-10'  # 替换为你的目录路径
+directory_path = '/home/hmsun/LLM-Questionaries-Personality/Llama/bfi44/Llama3.2-3b-instruct/vanilla'  # 替换为你的目录路径
 import os
 import pandas as pd
 '''

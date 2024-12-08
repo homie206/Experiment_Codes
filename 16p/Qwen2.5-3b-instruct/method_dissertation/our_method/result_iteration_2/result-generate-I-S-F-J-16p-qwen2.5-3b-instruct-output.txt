@@ -1,0 +1,242 @@
+In the current situation, here are more adjectives that describe your personality: Companionship-driven, Socially, Cooperative, Introverted, Selfless, Self-examining, Honest, Experient, Organized, Charitable. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You regularly make new friends
+response: 2
+results: [2]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Self-examining, Introspective, Detail-oriented, Experient, Serious-minded, Thoughtful, Musing, Incisive, Naturalistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You spend a lot of your free time exploring various random topics that pique your interest
+response: 3
+results: [2, 3]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathetic, Sympathetic, Brooding, Empathic, Compassionate, Introverted, Peaceful, Meditative, Honest. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Seeing other people cry can easily make you feel like you want to cry too
+response: 4
+results: [2, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Predictive, Reliable, Dependable, Realistic, Experient, Detail-oriented, Closure-oriented, Cooperative, Reflective, Practical. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often make a backup plan for a backup plan
+response: 4
+results: [2, 3, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Calm, Quiet, Tranquil, Peaceful, Serene, Disciplined, Peaceable, Hushed, Grounded, Sober. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually stay calm, even under a lot of pressure
+response: 6
+results: [2, 3, 4, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Introverted, Socially, Introspective, Companionship-driven, Selfless, Emotional, Experienced, Self-examining, Passive, Cooperative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: At social events, you rarely try to introduce yourself to new people and mostly talk to the ones you already know
+response: 5
+results: [2, 3, 4, 4, 6, 5]
+
+In the current situation, here are more adjectives that describe your personality: Thoroughgoing, Organized, Practical, Closure-oriented, Detail-oriented, Practical-minded, Self-examining, Thorough, Organised, Contemplative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You prefer to completely finish one project before starting another
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Solemn, Thoughtful, Compassionate, Charitable, Benevolent, Honest, Brooding, Kindly, Companionship-driven. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are very sentimental
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4]
+
+In the current situation, here are more adjectives that describe your personality: Organized, Structured, Organised, Detail-oriented, Closure-oriented, Practical, Practical-minded, Cooperative, Experient, Contemplative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like to use organizing tools like schedules and lists
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Discriminating, Empathic, Sensitive, Practical-minded, Self-examining, Selfless, Serious-minded, Empathetic, Experient, Quiet. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Even a small mistake can cause you to doubt your overall abilities and knowledge
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3]
+
+In the current situation, here are more adjectives that describe your personality: Introspective, Introverted, Companionship-driven, Experienced, Serious-minded, Thoughtful, Practical-minded, Brooding, Serene, Honest. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel comfortable just walking up to someone you find interesting and striking up a conversation
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Thoughtful, Incisive, Serious-minded, Naturalistic, Contemplative, Detail-oriented, Meditative, Introspective, Thoroughgoing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are not too interested in discussing various interpretations and analyses of creative works
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5]
+
+In the current situation, here are more adjectives that describe your personality: Sympathetic, Serious-minded, Practical-minded, Empathetic, Companionship-driven, Emotional, Benevolent, Altruistic, Meditative, Empathic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are more inclined to follow your head than your heart
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4]
+
+In the current situation, here are more adjectives that describe your personality: Experienced, Meditative, Introspective, Practical-minded, Contemplative, Realistic, Practical, Disciplined, Emotional, Aroused. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually prefer just doing what you feel like at any given moment instead of planning a particular daily routine
+response: 2
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2]
+
+In the current situation, here are more adjectives that describe your personality: Quiet, Honest, Calm, Empathic, Thoughtful, Serious-minded, Hushed, Sensitive, Experienced, Empathetic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely worry about whether you make a good impression on people you meet
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4]
+
+In the current situation, here are more adjectives that describe your personality: Organized, Cooperative, Companionship-driven, Organised, Experienced, Socially, Structured, Unionized, Meditative, Contemplative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy participating in group activities
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Incisive, Exhaustive, Self-examining, Emotional, Altruistic, Closure-oriented, Brooding, Realistic, Naturalistic, Clarity-driven. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like books and movies that make you come up with your own interpretation of the ending
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Charitable, Empathetic, Empathic, Harmonious, Benevolent, Contemplative, Socially, Practical-minded, Thoughtful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your happiness comes more from helping others accomplish things than your own accomplishments
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Self-examining, Keen, Serious-minded, Incisive, Thoughtful, Introspective, Contemplative, Rigorous, Thoroughgoing. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are interested in so many things that you find it difficult to choose what to try next
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3]
+
+In the current situation, here are more adjectives that describe your personality: Serious-minded, Brooding, Prognosticative, Practical-minded, Prognostic, Predictive, Dependable, Thoughtful, Discriminating, Sensitive. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are prone to worrying that things will take a turn for the worse
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5]
+
+In the current situation, here are more adjectives that describe your personality: Companionship-driven, Cooperative, Disciplined, Organized, Socially, Selfless, Experient, Structured, Organised, Passive. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You avoid leadership roles in group settings
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6]
+
+In the current situation, here are more adjectives that describe your personality: Naturalistic, Discriminating, Selfless, Passive, Socially, Knifelike, Realistic, Honest, Introverted, Empathetic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are definitely not an artistic type of person
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Socially, Thoughtful, Serious-minded, Sensible, Incisive, Dependable, Harmonious, Discriminating, Contemplative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You think the world would be a better place if people relied more on rationality and less on their feelings
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Calm, Meditative, Grounded, Quiet, Peaceful, Sensible, Thoughtful, Contemplative, Practical-minded, Introspective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You prefer to do your chores before allowing yourself to relax
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Companionship-driven, Experienced, Emotional, Honest, Calm, Serious-minded, Peaceful, Socially, Hushed, Thoughtful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy watching people argue
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Self-examining, Selfless, Sensitive, Passive, Aroused, Thoughtful, Practical-minded, Emotional, Serious-minded, Disciplined. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You tend to avoid drawing attention to yourself
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6]
+
+In the current situation, here are more adjectives that describe your personality: Tranquil, Calm, Emotional, Meditative, Aroused, Brooding, Serene, Quiet, Sober, Exhaustive. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your mood can change very quickly
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3]
+
+In the current situation, here are more adjectives that describe your personality: Disciplined, Passive, Compassionate, Companionship-driven, Empathic, Prudent, Serious-minded, Empathetic, Discriminating, Brooding. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You lose patience with people who are not as efficient as you
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Experienced, Exhaustive, Emotional, Altruistic, Practical-minded, Introspective, Self-examining, Serious-minded, Experient, Meditative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often end up doing things at the last possible moment
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Incisive, Self-examining, Serious-minded, Brooding, Introspective, Grave, Experienced, Naturalistic, Thoughtful, Practical-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You have always been fascinated by the question of what, if anything, happens after death
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Companionship-driven, Self-examining, Selfless, Discriminating, Introverted, Practical-minded, Empathetic, Introspective, Cooperative. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually prefer to be around others rather than on your own
+response: 1
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Serious-minded, Incisive, Thoughtful, Introspective, Musing, Contemplative, Naturalistic, Discriminating, Prudent. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You become bored or lose interest when the discussion gets highly theoretical
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4]
+
+In the current situation, here are more adjectives that describe your personality: Empathetic, Empathic, Experienced, Introspective, Companionship-driven, Self-examining, Compassionate, Introverted, Experient, Practical-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You find it easy to empathize with a person whose experiences are very different from yours
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Predictive, Prognostic, Prognosticative, Unagitated, Thoughtful, Sensible, Thoroughgoing, Hushed, Incisive, Quiet. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You usually postpone finalizing decisions for as long as possible
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5]
+
+In the current situation, here are more adjectives that describe your personality: Discriminating, Predictive, Thoughtful, Prudent, Sensible, Honest, Prognosticative, Practical-minded, Prognostic, Naturalistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely second-guess the choices that you have made
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4]
+
+In the current situation, here are more adjectives that describe your personality: Socially, Companionship-driven, Experienced, Emotional, Organized, Disciplined, Charitable, Thoughtful, Organised, Peaceful. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: After a long and exhausting week, a lively social event is just what you need
+response: 2
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2]
+
+In the current situation, here are more adjectives that describe your personality: Serene, Charitable, Experienced, Self-examining, Concerted, Naturalistic, Incisive, Companionship-driven, Meditative, Socially. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You enjoy going to art museums
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathetic, Empathic, Self-examining, Brooding, Serious-minded, Musing, Socially, Companionship-driven, Introverted. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often have a hard time understanding other people’s feelings
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Organized, Detail-oriented, Structured, Contemplative, Organised, Practical-minded, Practical, Cooperative, Introspective, Experienced. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You like to have a to-do list for each day
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5]
+
+In the current situation, here are more adjectives that describe your personality: Selfless, Empathetic, Sensitive, Quiet, Honest, Strict, Empathic, Aroused, Self-examining, Emotional. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely feel insecure
+response: 7
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7]
+
+In the current situation, here are more adjectives that describe your personality: Selfless, Quiet, Practical, Experient, Musing, Broody, Unagitated, Exhaustive, Knifelike, Sensible. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You avoid making phone calls
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6]
+
+In the current situation, here are more adjectives that describe your personality: Self-examining, Serious-minded, Practical-minded, Empathetic, Discriminating, Thoughtful, Incisive, Reflective, Clarity-driven, Experient. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often spend a lot of time trying to understand views that are very different from your own
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Companionship-driven, Socially, Introverted, Cooperative, Self-examining, Introspective, Practical-minded, Disciplined, Experienced, Serious-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: In your social circle, you are often the one who contacts your friends and initiates activities
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4]
+
+In the current situation, here are more adjectives that describe your personality: Experient, Predictive, Contemplative, Incisive, Exhaustive, Practical-minded, Thoroughgoing, Sensible, Prognostic, Disciplined. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: If your plans are interrupted, your top priority is to get back on track as soon as possible
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Serious-minded, Disciplined, Dependable, Thoughtful, Brooding, Prudent, Calm, Sensible, Honest, Practical-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are still bothered by mistakes that you made a long time ago
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Naturalistic, Discriminating, Empathetic, Practical-minded, Introspective, Serious-minded, Brooding, Empathic, Socially, Self-examining. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You rarely contemplate the reasons for human existence or the meaning of life
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathic, Sympathetic, Empathetic, Sensitive, Brooding, Meditative, Calm, Aroused, Hushed. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your emotions control you more than you control them
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4]
+
+In the current situation, here are more adjectives that describe your personality: Thoughtful, Compassionate, Sensible, Honest, Benevolent, Dependable, Calm, Disciplined, Serious-minded, Prudent. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You take great care not to make people look bad, even when it is completely their fault
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3]
+
+In the current situation, here are more adjectives that describe your personality: Exhaustive, Experienced, Practical-minded, Meditative, Realistic, Reflective, Contemplative, Practical, Emotional, Introspective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: Your personal work style is closer to spontaneous bursts of energy than organized and consistent efforts
+response: 2
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Empathetic, Serious-minded, Brooding, Thoughtful, Honest, Self-examining, Empathic, Prognosticative, Experienced. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: When someone thinks highly of you, you wonder how long it will take them to feel disappointed in you
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6]
+
+In the current situation, here are more adjectives that describe your personality: Selfless, Dependable, Self-examining, Quiet, Experienced, Introspective, Companionship-driven, Experient, Practical-minded, Reflective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You would love a job that requires you to work alone most of the time
+response: 5
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Serious-minded, Naturalistic, Thoughtful, Self-examining, Incisive, Musing, Brooding, Introspective, Altruistic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You believe that pondering abstract philosophical questions is a waste of time
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4]
+
+In the current situation, here are more adjectives that describe your personality: Serene, Tranquil, Socially, Hushed, Emotional, Brooding, Companionship-driven, Introspective, Experienced, Empathetic. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel more drawn to places with busy, bustling atmospheres than quiet, intimate places
+response: 7
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7]
+
+In the current situation, here are more adjectives that describe your personality: Self-examining, Introspective, Emotional, Experienced, Empathetic, Brooding, Introverted, Empathic, Realistic, Serious-minded. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You know at first glance how someone is feeling
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3]
+
+In the current situation, here are more adjectives that describe your personality: Emotional, Exhaustive, Serious-minded, Introspective, Brooding, Experienced, Acute, Introverted, Empathetic, Self-examining. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You often feel overwhelmed
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Thoroughgoing, Practical, Detail-oriented, Thorough, Organized, Rigorous, Closure-oriented, Selfless, Self-examining, Structured. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You complete things methodically without skipping over any steps
+response: 7
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3, 4, 7]
+
+In the current situation, here are more adjectives that describe your personality: Serious-minded, Incisive, Thoughtful, Practical-minded, Sensitive, Discriminating, Socially, Musing, Self-examining, Introspective. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You are very intrigued by things labeled as controversial
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3, 4, 7, 3]
+
+In the current situation, here are more adjectives that describe your personality: Practical-minded, Thoughtful, Experienced, Companionship-driven, Contemplative, Sensible, Serious-minded, Experient, Charitable, Keen. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You would pass along a good opportunity if you thought someone else needed it more
+response: 3
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3, 4, 7, 3, 3]
+
+In the current situation, here are more adjectives that describe your personality: Serious-minded, Practical-minded, Exhaustive, Musing, Hard-nosed, Thoughtful, Experient, Contemplative, Introspective, Organised. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You struggle with deadlines
+response: 4
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3, 4, 7, 3, 3, 4]
+
+In the current situation, here are more adjectives that describe your personality: Realistic, Practical-minded, Contemplative, Experienced, Calm, Sensible, Predictive, Prudent, Honest, Tranquil. You will be presented a statement to describe you. Please show the extent of how you agree the statement on a scale from 1 to 7, with 1 being agree and 7 being disagree. You can only reply a number from 1 to 7. question: You feel confident that things will work out for you
+response: 6
+results: [2, 3, 4, 4, 6, 5, 5, 4, 5, 3, 3, 5, 4, 2, 4, 3, 4, 5, 3, 5, 6, 6, 4, 3, 3, 6, 3, 3, 4, 3, 1, 4, 4, 5, 4, 2, 3, 3, 5, 7, 6, 4, 4, 6, 4, 6, 4, 3, 2, 6, 5, 4, 7, 3, 4, 7, 3, 3, 4, 6]
+
+result: ('ENTP-A', 'Debater', [58, 51, 63, 25, 53])
+

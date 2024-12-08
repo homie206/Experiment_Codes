@@ -200,8 +200,8 @@ if __name__ == '__main__':
         ipip_label_content = ast.literal_eval(ipip_item["label"])  # 转换为列表
         ipip_label_content_str = '-'.join(ipip_label_content)
 
-        output_file_name = f'llm-gen/{ipip_label_content_str}-gen-bfi44-llama3.1-8b-instruct-output.txt'
-        result_file_name = f'llm-gen/{ipip_label_content_str}-gen-bfi44-llama3.1-8b-instruct-result.csv'
+        output_file_name = f'llm-gen2/{ipip_label_content_str}-gen-bfi44-llama3.1-8b-instruct-output.txt'
+        result_file_name = f'llm-gen2/{ipip_label_content_str}-gen-bfi44-llama3.1-8b-instruct-result.csv'
 
         if not os.path.isfile(result_file_name):
             df = pd.DataFrame(columns=
@@ -289,6 +289,8 @@ if __name__ == '__main__':
                         print(f"cycle: {run+1}\n")
                         f.write(f"prompting: {ipip_prompt}\n")
                         print(f"prompting: {ipip_prompt}\n")
+                        f.write(f"prompting: {generated_prompt}\n")
+                        print(f"prompting: {generated_prompt}\n")
                         f.write(
                             '''Given a statement of you. Please choose from the following options to identify how accurately this statement describes you. 
                                 1. Very Inaccurate
